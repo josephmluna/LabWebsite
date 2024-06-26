@@ -1,5 +1,5 @@
 
-# josephmlunaDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Website for the Luna Lab at Case Western Reserve University
 
 Visit **[josephmluna.github.io/LabWebsite](https://josephmluna.github.io/LabWebsite)** 🚀
 
