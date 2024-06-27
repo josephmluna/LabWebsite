@@ -13,10 +13,10 @@ In addition, we are committed to training and mentoring the next generation of s
 
 {% include section.html %}
 
-## Current Projects
+## What we're working on
 
 {% capture text %}
-Mapping Subcellular RBP:RNA Interactions
+**Mapping Subcellular RBP:RNA Interactions**
 We're developing innovative tools to capture and analyze RBP:RNA interactions with unprecedented subcellular resolution. By biochemically preserving spatial information in living cells, we aim to uncover how the localization of these interactions influences cellular functions and viral infections. This project will provide crucial insights into how RBPs operate in distinct cellular compartments and how their spatial distribution affects their roles in RNA metabolism.
 
 
@@ -31,7 +31,7 @@ We're developing innovative tools to capture and analyze RBP:RNA interactions wi
 %}
 
 {% capture text %}
-Decoding RBP Dynamics in Viral Infections
+**Decoding RBP Dynamics in Viral Infections**
 Using positive-sense RNA viruses as model systems, we're investigating how RBPs coordinate viral replication while simultaneously functioning in host defense. We employ reverse genetics, CRISPR screening, and advanced RNA profiling to map the dynamic interactions between viral genomes and host RBPs throughout the infection cycle. Our goal is to unravel the regulatory logic behind RBP functions in both supporting and combating viral replication.
 <br>
 
@@ -46,7 +46,7 @@ Using positive-sense RNA viruses as model systems, we're investigating how RBPs 
 %}
 
 {% capture text %}
-Modeling RBP Networks in Cellular Stress
+**Modeling RBP Networks in Cellular Stress**
 We're integrating our experimental data with state-of-the-art bioinformatics to build models of RBP activities and interaction networks during cellular stress, particularly viral infections. By analyzing how RBP:RNA interactions change in response to stress, we aim to develop experimental frameworks to tune RBP behavior in various  contexts. This work bridges our experimental work with systems-level understanding of RNA regulation.
 
 {:.center}
@@ -58,3 +58,13 @@ We're integrating our experimental data with state-of-the-art bioinformatics to 
   headline="Modeling RBP networks"
   text=text
 %}
+
+## How we do science
+
+**Open Science and Transparency**
+The Luna Lab is committed to open, transparent, and reproducible research. We:
+
+- Share all our code and analyses as open-source
+- Make our data publicly available on GEO and othe repositories
+- Release preprints of our work before formal publication
+- Publish in peer-reviewed journals for broader dissemination
