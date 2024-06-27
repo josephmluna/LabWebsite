@@ -23,8 +23,8 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
+  --title: "FinalSixBold", "Barlow", sans-serif;
+  --heading: "FinalSixBold", "Barlow", sans-serif;
   --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
