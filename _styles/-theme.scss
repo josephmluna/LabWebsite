@@ -1,6 +1,14 @@
 ---
 ---
 
+@font-face {
+  font-family: "FinalSixBold";
+  src: url('/webFonts/FinalSixBold/font.woff2') format('woff2'),
+       url('/webFonts/FinalSixBold/font.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 // colors
 [data-dark="false"] {
   --primary: #0795d9;
@@ -27,8 +35,8 @@
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
+  --title:"FinalSixBold", "Barlow", sans-serif;
+  --heading: "FinalSixBold", "Barlow", sans-serif;
   --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
 
