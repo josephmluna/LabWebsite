@@ -12,6 +12,7 @@
   date: '2024-04-24'
   link: https://doi.org/gt2296
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.10.26.563984
@@ -26,6 +27,7 @@
   date: '2023-10-26'
   link: https://doi.org/gt2297
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1084/jem.20221166
@@ -53,6 +55,7 @@
   date: '2023-05-05'
   link: https://doi.org/gr76sk
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-022-29308-2
@@ -69,6 +72,7 @@
   date: '2022-03-29'
   link: https://doi.org/gqhv2n
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/science.abj8430
@@ -104,6 +108,7 @@
   date: '2021-11-26'
   link: https://doi.org/gt2298
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.2015794118
@@ -123,6 +128,7 @@
   date: '2020-12-28'
   link: https://doi.org/gk8jj9
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cell.2020.12.006
@@ -148,6 +154,7 @@
   date: '2021-01-01'
   link: https://doi.org/gh3p85
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.chom.2020.12.009
@@ -177,6 +184,7 @@
   date: '2021-02-01'
   link: https://doi.org/gm4ch6
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.10.07.326462
@@ -202,6 +210,7 @@
   date: '2020-10-08'
   link: https://doi.org/gk7dk8
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.09.11.291716
@@ -230,6 +239,7 @@
   date: '2020-09-11'
   link: https://doi.org/gk7dfb
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.ppat.1006694
@@ -254,6 +264,7 @@
   date: '2017-10-30'
   link: https://doi.org/gcg7sz
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/science.aal1962
@@ -278,6 +289,7 @@
   date: '2017-07-14'
   link: https://doi.org/gbprmc
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:28735896
@@ -296,6 +308,7 @@
   date: '2017-07-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28735896
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15252/embj.201695933
@@ -308,6 +321,7 @@
   date: '2016-11-10'
   link: https://doi.org/f3s6zm
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.virol.2016.04.020
@@ -331,6 +345,7 @@
   date: '2016-07-01'
   link: https://doi.org/f8qsgz
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.chom.2016.02.007
@@ -354,6 +369,7 @@
   date: '2016-03-01'
   link: https://doi.org/f8fj22
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jhep.2015.10.023
@@ -367,6 +383,7 @@
   date: '2016-02-01'
   link: https://doi.org/gt2299
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ncomms9864
@@ -385,6 +402,7 @@
   date: '2015-11-25'
   link: https://doi.org/ggrf86
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cell.2015.02.025
@@ -407,6 +425,7 @@
   date: '2015-03-01'
   link: https://doi.org/f66nnk
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/emboj.2012.63
@@ -423,6 +442,7 @@
   date: '2012-03-30'
   link: https://doi.org/f3xkfj
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1019613108
@@ -436,6 +456,7 @@
   date: '2011-02-09'
   link: https://doi.org/bfg9vk
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0004894
@@ -456,6 +477,7 @@
   date: '2009-03-17'
   link: https://doi.org/brct4g
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.ppat.0040016
@@ -471,6 +493,7 @@
   date: '2008-02-01'
   link: https://doi.org/cstw75
   orcid: 0000-0003-2415-9203
+  joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
