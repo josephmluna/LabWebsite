@@ -2,6 +2,7 @@
 name: Joseph Luna
 image: images/photo.jpg
 role: pi
+description: Principal Investigator
 aliases:
   - Joe Luna
   - J. Luna
