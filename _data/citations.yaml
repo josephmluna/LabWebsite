@@ -15,21 +15,6 @@
   joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.26.563984
-  title: Mapping RNA-Protein Interactions with Subcellular Resolution Using Colocalization
-    CLIP
-  authors:
-  - Soon Yi
-  - Shashi S. Singh
-  - Kathryn Rozen-Gagnon
-  - Joseph M. Luna
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-26'
-  link: https://doi.org/gt2297
-  orcid: 0000-0003-2415-9203
-  joe-luna: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1084/jem.20221166
   title: OX40L-expressing recombinant modified vaccinia virus Ankara induces potent
     antitumor immunity via reprogramming Tregs
@@ -183,61 +168,6 @@
   publisher: Cell Host &amp; Microbe
   date: '2021-02-01'
   link: https://doi.org/gm4ch6
-  orcid: 0000-0003-2415-9203
-  joe-luna: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.10.07.326462
-  title: Genome-scale identification of SARS-CoV-2 and pan-coronavirus host factor
-    networks
-  authors:
-  - William M. Schneider
-  - Joseph M. Luna
-  - H.-Heinrich Hoffmann
-  - "Francisco J. S\xE1nchez-Rivera"
-  - Andrew A. Leal
-  - Alison W. Ashbrook
-  - "J\xE9r\xE9mie Le Pen"
-  - Eleftherios Michailidis
-  - Inna Ricardo-Lax
-  - Avery Peace
-  - Ansgar F. Stenzel
-  - Scott W. Lowe
-  - Margaret R. MacDonald
-  - Charles M. Rice
-  - John T. Poirier
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-10-08'
-  link: https://doi.org/gk7dk8
-  orcid: 0000-0003-2415-9203
-  joe-luna: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.09.11.291716
-  title: Functional interrogation of a SARS-CoV-2 host protein interactome identifies
-    unique and shared coronavirus host factors
-  authors:
-  - H.-Heinrich Hoffmann
-  - William M. Schneider
-  - "Francisco J. S\xE1nchez-Rivera"
-  - Joseph M. Luna
-  - Alison W. Ashbrook
-  - Yadira M. Soto-Feliciano
-  - Andrew A. Leal
-  - "J\xE9r\xE9mie Le Pen"
-  - Inna Ricardo-Lax
-  - Eleftherios Michailidis
-  - Yuan Hao
-  - Ansgar F. Stenzel
-  - Avery Peace
-  - C. David Allis
-  - Scott W. Lowe
-  - Margaret R. MacDonald
-  - John T. Poirier
-  - Charles M. Rice
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-09-11'
-  link: https://doi.org/gk7dfb
   orcid: 0000-0003-2415-9203
   joe-luna: true
   plugin: orcid.py
@@ -496,61 +426,3 @@
   joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
