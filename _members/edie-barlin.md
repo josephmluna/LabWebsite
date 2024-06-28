@@ -1,6 +1,6 @@
 ---
 name: Edie Barlin
-image: images/photo.jpg
+image: images/people/edie.jpg
 role: current-undergrad
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Nadia Richardson
-image: images/photo.jpg
+image: images/people/nadia.jpg
 role: alum-ms
 ---
 

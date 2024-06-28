@@ -1,6 +1,6 @@
 ---
 name: Amra Ismail
-image: images/photo.jpg
+image: images/people/amra.jpg
 role: current-postdoc
 ---
 

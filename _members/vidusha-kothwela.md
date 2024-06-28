@@ -1,6 +1,6 @@
 ---
 name: Vidusha Kothwela
-image: images/photo.jpg
+image: images/people/vidusha.jpg
 role: current-phd
 ---
 

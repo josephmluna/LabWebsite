@@ -1,6 +1,6 @@
 ---
 name: Seonghwan Song
-image: images/photo.jpg
+image: images/people/seonghwan.jpg
 role: alum-ms
 ---
 

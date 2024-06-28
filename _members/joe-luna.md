@@ -1,6 +1,6 @@
 ---
 name: Joseph Luna
-image: images/photo.jpg
+image: images/people/joseph.jpg
 role: pi
 description: Principal Investigator
 aliases:
@@ -9,6 +9,7 @@ aliases:
   - JL
 links:
   orcid: 0000-0003-2415-9203
+  github: josephmluna
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

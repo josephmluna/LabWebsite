@@ -1,6 +1,6 @@
 ---
 name: Saad Badat
-image: images/photo.jpg
+image: images/people/saad.jpg
 role: alum-undergrad
 ---
 
