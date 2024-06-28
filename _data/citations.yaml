@@ -1,174 +1,476 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1261/rna.079890.123
+  title: Mapping RNA-Protein Interactions with Subcellular Resolution Using Colocalization
+    CLIP
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Soon Yi
+  - Shashi S Singh
+  - Kathryn Rozen-Gagnon
+  - Joseph M Luna
+  publisher: RNA
+  date: '2024-04-24'
+  link: https://doi.org/gt2296
+  orcid: 0000-0003-2415-9203
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1101/2023.10.26.563984
+  title: Mapping RNA-Protein Interactions with Subcellular Resolution Using Colocalization
+    CLIP
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Soon Yi
+  - Shashi S. Singh
+  - Kathryn Rozen-Gagnon
+  - Joseph M. Luna
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2023-10-26'
+  link: https://doi.org/gt2297
+  orcid: 0000-0003-2415-9203
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1084/jem.20221166
+  title: OX40L-expressing recombinant modified vaccinia virus Ankara induces potent
+    antitumor immunity via reprogramming Tregs
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Ning Yang
+  - Yi Wang
+  - Shuaitong Liu
+  - Shanza Baseer Tariq
+  - Joseph M. Luna
+  - Gregory Mazo
+  - Adrian Tan
+  - Tuo Zhang
+  - Jiahu Wang
+  - Wei Yan
+  - John Choi
+  - Anthony Rossi
+  - Jenny Zhaoying Xiang
+  - Charles M. Rice
+  - Taha Merghoub
+  - Jedd D. Wolchok
+  - Liang Deng
+  publisher: Journal of Experimental Medicine
+  date: '2023-05-05'
+  link: https://doi.org/gr76sk
+  orcid: 0000-0003-2415-9203
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41467-022-29308-2
+  title: Lung type II alveolar epithelial cells collaborate with CCR2+ inflammatory
+    monocytes in host defense against poxvirus infection
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Ning Yang
+  - Joseph M. Luna
+  - Peihong Dai
+  - Yi Wang
+  - Charles M. Rice
+  - Liang Deng
+  publisher: Nature Communications
+  date: '2022-03-29'
+  link: https://doi.org/gqhv2n
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.abj8430
+  title: Replication and single-cycle delivery of SARS-CoV-2 replicons
+  authors:
+  - Inna Ricardo-Lax
+  - Joseph M. Luna
+  - Tran Thi Nhu Thao
+  - "J\xE9r\xE9mie Le Pen"
+  - Yingpu Yu
+  - H.-Heinrich Hoffmann
+  - William M. Schneider
+  - Brandon S. Razooky
+  - Javier Fernandez-Martinez
+  - Fabian Schmidt
+  - Yiska Weisblum
+  - "Bettina Salome Tr\xFCeb"
+  - "In\xEAs Berenguer Veiga"
+  - Kimberly Schmied
+  - Nadine Ebert
+  - Eleftherios Michailidis
+  - Avery Peace
+  - "Francisco J. S\xE1nchez-Rivera"
+  - Scott W. Lowe
+  - Michael P. Rout
+  - Theodora Hatziioannou
+  - Paul D. Bieniasz
+  - John T. Poirier
+  - Margaret R. MacDonald
+  - Volker Thiel
+  - Charles M. Rice
+  publisher: Science
+  date: '2021-11-26'
+  link: https://doi.org/gt2298
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2015794118
+  title: E3 ubiquitin ligase Mindbomb 1 facilitates nuclear delivery of adenovirus
+    genomes
+  authors:
+  - Stephanie L. Sarbanes
+  - Vincent A. Blomen
+  - Eric Lam
+  - "S\xF8ren Heissel"
+  - Joseph M. Luna
+  - Thijn R. Brummelkamp
+  - Erik Falck-Pedersen
+  - H.-Heinrich Hoffmann
+  - Charles M. Rice
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2020-12-28'
+  link: https://doi.org/gk8jj9
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2020.12.006
+  title: Genome-Scale Identification of SARS-CoV-2 and Pan-coronavirus Host Factor
+    Networks
+  authors:
+  - William M. Schneider
+  - Joseph M. Luna
+  - H.-Heinrich Hoffmann
+  - "Francisco J. S\xE1nchez-Rivera"
+  - Andrew A. Leal
+  - Alison W. Ashbrook
+  - "J\xE9r\xE9mie Le Pen"
+  - Inna Ricardo-Lax
+  - Eleftherios Michailidis
+  - Avery Peace
+  - Ansgar F. Stenzel
+  - Scott W. Lowe
+  - Margaret R. MacDonald
+  - Charles M. Rice
+  - John T. Poirier
+  publisher: Cell
+  date: '2021-01-01'
+  link: https://doi.org/gh3p85
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.chom.2020.12.009
+  title: Functional interrogation of a SARS-CoV-2 host protein interactome identifies
+    unique and shared coronavirus host factors
+  authors:
+  - H.-Heinrich Hoffmann
+  - "Francisco J. S\xE1nchez-Rivera"
+  - William M. Schneider
+  - Joseph M. Luna
+  - Yadira M. Soto-Feliciano
+  - Alison W. Ashbrook
+  - "J\xE9r\xE9mie Le Pen"
+  - Andrew A. Leal
+  - Inna Ricardo-Lax
+  - Eleftherios Michailidis
+  - Yuan Hao
+  - Ansgar F. Stenzel
+  - Avery Peace
+  - Johannes Zuber
+  - C. David Allis
+  - Scott W. Lowe
+  - Margaret R. MacDonald
+  - John T. Poirier
+  - Charles M. Rice
+  publisher: Cell Host &amp; Microbe
+  date: '2021-02-01'
+  link: https://doi.org/gm4ch6
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.10.07.326462
+  title: Genome-scale identification of SARS-CoV-2 and pan-coronavirus host factor
+    networks
+  authors:
+  - William M. Schneider
+  - Joseph M. Luna
+  - H.-Heinrich Hoffmann
+  - "Francisco J. S\xE1nchez-Rivera"
+  - Andrew A. Leal
+  - Alison W. Ashbrook
+  - "J\xE9r\xE9mie Le Pen"
+  - Eleftherios Michailidis
+  - Inna Ricardo-Lax
+  - Avery Peace
+  - Ansgar F. Stenzel
+  - Scott W. Lowe
+  - Margaret R. MacDonald
+  - Charles M. Rice
+  - John T. Poirier
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2020-10-08'
+  link: https://doi.org/gk7dk8
+  orcid: 0000-0003-2415-9203
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1101/2020.09.11.291716
+  title: Functional interrogation of a SARS-CoV-2 host protein interactome identifies
+    unique and shared coronavirus host factors
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - H.-Heinrich Hoffmann
+  - William M. Schneider
+  - "Francisco J. S\xE1nchez-Rivera"
+  - Joseph M. Luna
+  - Alison W. Ashbrook
+  - Yadira M. Soto-Feliciano
+  - Andrew A. Leal
+  - "J\xE9r\xE9mie Le Pen"
+  - Inna Ricardo-Lax
+  - Eleftherios Michailidis
+  - Yuan Hao
+  - Ansgar F. Stenzel
+  - Avery Peace
+  - C. David Allis
+  - Scott W. Lowe
+  - Margaret R. MacDonald
+  - John T. Poirier
+  - Charles M. Rice
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2020-09-11'
+  link: https://doi.org/gk7dfb
+  orcid: 0000-0003-2415-9203
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1371/journal.ppat.1006694
+  title: miRNA independent hepacivirus variants suggest a strong evolutionary pressure
+    to maintain miR-122 dependence
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Yingpu Yu
+  - Troels K. H. Scheel
+  - Joseph M. Luna
+  - Hachung Chung
+  - Eiko Nishiuchi
+  - Margaret A. Scull
+  - "Natalia Echeverr\xEDa"
+  - Inna Ricardo-Lax
+  - Amit Kapoor
+  - Ian W. Lipkin
+  - Thomas J. Divers
+  - Douglas F. Antczak
+  - Bud C. Tennant
+  - Charles M. Rice
+  publisher: PLOS Pathogens
+  date: '2017-10-30'
+  link: https://doi.org/gcg7sz
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aal1962
+  title: Mouse models of acute and chronic hepacivirus infection
+  authors:
+  - Eva Billerbeck
+  - Raphael Wolfisberg
+  - "Ulrik Fahn\xF8e"
+  - Jing W. Xiao
+  - Corrine Quirk
+  - Joseph M. Luna
+  - John M. Cullen
+  - Alex S. Hartlage
+  - Luis Chiriboga
+  - Kalpana Ghoshal
+  - W. Ian Lipkin
+  - Jens Bukh
+  - Troels K. H. Scheel
+  - Amit Kapoor
+  - Charles M. Rice
+  publisher: Science
+  date: '2017-07-14'
+  link: https://doi.org/gbprmc
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28735896
+  title: Argonaute CLIP Defines a Deregulated miR-122-Bound Transcriptome that Correlates
+    with Patient Survival in Human Liver Cancer.
+  authors:
+  - Joseph M Luna
+  - Juan M Barajas
+  - Kun-Yu Teng
+  - Hui-Lung Sun
+  - Michael J Moore
+  - Charles M Rice
+  - Robert B Darnell
+  - Kalpana Ghoshal
+  publisher: Molecular cell
+  date: '2017-07-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28735896
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/embj.201695933
+  title: 'Present and not reporting for duty: ds<scp>RNA</scp>i in mammalian cells'
+  authors:
+  - Joseph M Luna
+  - Xianfang Wu
+  - Charles M Rice
+  publisher: The EMBO Journal
+  date: '2016-11-10'
+  link: https://doi.org/f3s6zm
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.virol.2016.04.020
+  title: Viral genome imaging of hepatitis C virus to probe heterogeneous viral infection
+    and responses to antiviral therapies
+  authors:
+  - Vyas Ramanan
+  - Kartik Trehan
+  - Mei.-Lyn. Ong
+  - Joseph M. Luna
+  - Hans.-Heinrich Hoffmann
+  - Christine Espiritu
+  - Timothy P. Sheahan
+  - Hamsika Chandrasekar
+  - Robert E. Schwartz
+  - Kathleen S. Christine
+  - Charles M. Rice
+  - Alexander van Oudenaarden
+  - Sangeeta N. Bhatia
+  publisher: Virology
+  date: '2016-07-01'
+  link: https://doi.org/f8qsgz
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.chom.2016.02.007
+  title: A Broad RNA Virus Survey Reveals Both miRNA Dependence and Functional Sequestration
+  authors:
+  - "Troels\_K.H. Scheel"
+  - "Joseph\_M. Luna"
+  - Matthias Liniger
+  - Eiko Nishiuchi
+  - Kathryn Rozen-Gagnon
+  - Amir Shlomai
+  - "Ga\xEBl Auray"
+  - Markus Gerber
+  - John Fak
+  - Irene Keller
+  - "R\xE9my Bruggmann"
+  - "Robert\_B. Darnell"
+  - Nicolas Ruggli
+  - "Charles\_M. Rice"
+  publisher: Cell Host &amp; Microbe
+  date: '2016-03-01'
+  link: https://doi.org/f8fj22
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jhep.2015.10.023
+  title: 'Mopping up miRNA: An integrated HBV transcript disrupts liver homeostasis
+    by sequestering miR-122'
+  authors:
+  - Joseph M. Luna
+  - Eleftherios Michailidis
+  - Charles M. Rice
+  publisher: Journal of Hepatology
+  date: '2016-02-01'
+  link: https://doi.org/gt2299
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ncomms9864
+  title: "miRNA\u2013target chimeras reveal miRNA 3\u2032-end pairing as a major determinant\
+    \ of Argonaute target specificity"
+  authors:
+  - Michael J. Moore
+  - Troels K. H. Scheel
+  - Joseph M. Luna
+  - Christopher Y. Park
+  - John J. Fak
+  - Eiko Nishiuchi
+  - Charles M. Rice
+  - Robert B. Darnell
+  publisher: Nature Communications
+  date: '2015-11-25'
+  link: https://doi.org/ggrf86
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2015.02.025
+  title: Hepatitis C Virus RNA Functionally Sequesters miR-122
+  authors:
+  - "Joseph\_M. Luna"
+  - "Troels\_K.H. Scheel"
+  - Tal Danino
+  - "Katharina\_S. Shaw"
+  - Aldo Mele
+  - "John\_J. Fak"
+  - Eiko Nishiuchi
+  - "Constantin\_N. Takacs"
+  - "Maria\_Teresa Catanese"
+  - "Ype\_P. de\_Jong"
+  - "Ira\_M. Jacobson"
+  - "Charles\_M. Rice"
+  - "Robert\_B. Darnell"
+  publisher: Cell
+  date: '2015-03-01'
+  link: https://doi.org/f66nnk
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/emboj.2012.63
+  title: EBV and human microRNAs co-target oncogenic and apoptotic viral and human
+    genes during latency
+  authors:
+  - Kasandra J Riley
+  - Gabrielle S Rabinowitz
+  - Therese A Yario
+  - Joseph M Luna
+  - Robert B Darnell
+  - Joan A Steitz
+  publisher: The EMBO Journal
+  date: '2012-03-30'
+  link: https://doi.org/f3xkfj
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1019613108
+  title: 'End game: Getting the most out of microRNAs'
+  authors:
+  - Shihyun You
+  - Catherine L. Murray
+  - Joseph M. Luna
+  - Charles M. Rice
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2011-02-09'
+  link: https://doi.org/bfg9vk
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0004894
+  title: Human TRIM Gene Expression in Response to Interferons
+  authors:
+  - Laetitia Carthagena
+  - Anna Bergamaschi
+  - Joseph M. Luna
+  - Annie David
+  - Pradeep D. Uchil
+  - Florence Margottin-Goguet
+  - Walther Mothes
+  - Uriel Hazan
+  - Catherine Transy
+  - Gianfranco Pancino
+  - "S\xE9bastien Nisole"
+  publisher: PLoS ONE
+  date: '2009-03-17'
+  link: https://doi.org/brct4g
+  orcid: 0000-0003-2415-9203
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.0040016
+  title: TRIM E3 Ligases Interfere with Early and Late Stages of the Retroviral Life
+    Cycle
+  authors:
+  - Pradeep D Uchil
+  - Brian D Quinlan
+  - Wai-Tsing Chan
+  - Joseph M Luna
+  - Walther Mothes
+  publisher: PLoS Pathogens
+  date: '2008-02-01'
+  link: https://doi.org/cstw75
+  orcid: 0000-0003-2415-9203
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +486,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +502,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
