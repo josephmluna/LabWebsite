@@ -4,15 +4,13 @@ nav:
   order: 5
   tooltip: Being in the lab
 ---
-<div align="center">
-# Luna Lab Charter
+<div align="center"># Luna Lab Charter
 
 *Last edited 2024-07-01 v2*
 
 Welcome to the Luna lab! The team and I are excited you want to work with us.
 
-Below are some thoughts on how I'd like the lab to function. These ideas reflect the values and expectations that as a group we feel are important to creating and maintaining a healthy work environment. As this is a living document, we will revisit these ideas periodically and collaboratively as new lab members join and provide valuable feedback.
-</div>
+Below are some thoughts on how I'd like the lab to function. These ideas reflect the values and expectations that as a group we feel are important to creating and maintaining a healthy work environment. As this is a living document, we will revisit these ideas periodically and collaboratively as new lab members join and provide valuable feedback. </div>
 
 ## Safety and Health
 
@@ -58,7 +56,7 @@ Our lab recognizes that diversity is a key driver of scientific excellence. By b
 
 However, we also acknowledge that academia has long struggled with issues of systemic bias and underrepresentation. As a lab, we are committed to being part of the solution. We actively work to identify and dismantle biases, promote mutual understanding, and create a space where everyone feels supported and empowered to succeed.
 
-To help us in this ongoing process, I encourage you to explore the resources in our lab library on topics such as representation, crucial conversations, and emotional intelligence. These tools can help us navigate challenges, have productive discussions, and maintain inclusive culture.
+To help in this ongoing process, I encourage you to explore the resources in our lab library on topics such as representation, crucial conversations, and emotional intelligence. These tools can help us navigate challenges, have productive discussions, and maintain an inclusive culture. 
 
 Additionally, I strongly recommend attending school-wide events related to diversity, equity, and inclusion. These are valuable opportunities to learn, engage with the broader community, and bring new ideas back to our lab.
 
@@ -70,7 +68,7 @@ Together, we can create a lab environment that values diversity and actively har
 
 We have several types of lab meetings, and their frequency and scheduling are based on the current needs of the lab.
 
-Lab Meetings / Journal Clubs: These meetings occur weekly on Wednesday mornings from 9:30-10:30 AM. They are mandatory for everyone except undergraduates, who may have coursework, though all are welcome to attend. We typically start with a few minutes of lab business and announcements. For these meetings, we alternate between data meetings and interactive journal clubs.
+Lab Meetings / Journal Clubs: These meetings occur weekly on **Wednesday mornings from 9:30-10:30 AM.** They are mandatory for everyone except undergraduates, who may have coursework, though all are welcome to attend. We typically start with a few minutes of lab business and announcements. For these meetings, we alternate between data meetings and interactive journal clubs.
 
 Data meetings: In these meetings, one person presents a detailed update on their work, including background, data, interpretations, and future directions. Each person might present approximately every 2 months.
 
