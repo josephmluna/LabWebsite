@@ -4,7 +4,7 @@ nav:
   order: 5
   tooltip: Being in the lab
 ---
-
+<div align="center">
 # Luna Lab Charter
 
 *Last edited 2024-07-01 v2*
@@ -12,6 +12,7 @@ nav:
 Welcome to the Luna lab! The team and I are excited you want to work with us.
 
 Below are some thoughts on how I'd like the lab to function. These ideas reflect the values and expectations that as a group we feel are important to creating and maintaining a healthy work environment. As this is a living document, we will revisit these ideas periodically and collaboratively as new lab members join and provide valuable feedback.
+</div>
 
 ## Safety and Health
 
