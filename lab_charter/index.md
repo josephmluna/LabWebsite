@@ -33,7 +33,7 @@ I am always here to help you find the resources you need when challenges arise.
 
 ## Collegiality, Teamwork, and Lab Citizenship
 
-Curiosity + kindness + team spirit = good science
+*Curiosity + kindness + team spirit = good science*
 
 A supportive and collaborative environment is essential for our lab's success. Each member brings unique perspectives and contributions, and we believe that by working together with open communication and mutual respect, we can achieve more than any individual could alone.
 
@@ -47,7 +47,7 @@ Flexibility in working hours is possible as long as it doesn't hinder the lab's 
 
 We understand that everyone has different work styles and goes through various phases of intensity. Work hours are generally flexible, but productivity is key.
 
-To ensure effective collaboration and safety, we encourage everyone to be physically present during core hours (M-F, 10 AM to 4 PM), in addition to attending mandatory meetings and seminars. Some may prefer early mornings, while others work better in the evenings, but these core hours allow for essential overlap.
+To ensure effective collaboration and safety, we encourage everyone to be physically present during core hours *(M-F, 10 AM to 4 PM)*, in addition to attending mandatory meetings and seminars. Some may prefer early mornings, while others work better in the evenings, but these core hours allow for essential overlap.
 
 If you'll be out of the lab for a day or more, inform me via email or Slack. If you're feeling ill, stay home, rest, and coordinate with colleagues to cover your responsibilities. We're a team, and supporting each other is crucial.
 
@@ -65,33 +65,31 @@ To help in this ongoing process, I encourage you to explore the resources in our
 
 Additionally, I strongly recommend attending school-wide events related to diversity, equity, and inclusion. These are valuable opportunities to learn, engage with the broader community, and bring new ideas back to our lab.
 
-If you come across relevant opportunities or initiatives, please share them with the group. I am committed to supporting your involvement and helping to amplify your efforts.
-
-Together, we can create a lab environment that values diversity and actively harnesses its power to drive scientific breakthroughs and positive change.
+Lastly, we believe that food brings people together! We regularly share treats and dishes from the various places we call home. Have a special treat that you made too much of? Bring it on over!
 
 ## Meetings
 
 We have several types of lab meetings, and their frequency and scheduling are based on the current needs of the lab.
 
-Lab Meetings / Journal Clubs: These meetings occur weekly on **Wednesday mornings from 9:30-10:30 AM.** They are mandatory for everyone except undergraduates, who may have coursework, though all are welcome to attend. We typically start with a few minutes of lab business and announcements. For these meetings, we alternate between data meetings and interactive journal clubs.
+**Lab Meetings / Journal Clubs:** These meetings occur weekly on **Wednesday mornings from 9:30-10:30 AM.** They are mandatory for everyone except undergraduates, who may have coursework, though all are welcome to attend. We typically start with a few minutes of lab business and announcements. For these meetings, we alternate between data meetings and interactive journal clubs.
 
-Data meetings: In these meetings, one person presents a detailed update on their work, including background, data, interpretations, and future directions. Each person might present approximately every 2 months.
+- Data meetings: In these meetings, one person presents a detailed update on their work, including background, data, interpretations, and future directions. Each person might present approximately every 2 months.
 
-Interactive journal clubs: The presenter selects a paper from our read pile and informs everyone of their selection one week in advance. The presenter should know the paper well enough to lead the discussion and may assign a figure from the paper for attendees to explain and summarize. No formal presentation is needed; we'll use screen sharing as a visual aid. This format fosters an interactive and collaborative journal club experience, encouraging everyone to engage deeply with the material and its application to our lab's research. Everyone is expected to read the paper before the meeting, but you'll develop the skill of understanding the main points even if you haven't read every detail.
+- Interactive journal clubs: The presenter selects a paper from our read pile and informs everyone of their selection one week in advance. The presenter should know the paper well enough to lead the discussion and may assign a figure from the paper for attendees to explain and summarize. No formal presentation is needed; we'll use screen sharing as a visual aid. This format fosters an interactive and collaborative journal club experience, encouraging everyone to engage deeply with the material and its application to our lab's research. Everyone is expected to read the paper before the meeting, but you'll develop the skill of understanding the main points even if you haven't read every detail.
 
-Annual State of the Lab: In December, before the holiday break, I'll use a lab meeting slot to provide a state of the lab update for the year. This is an opportunity for all of us to get a sense of how we fared in terms of goal accomplishments, our overall funding situation, broad project outlines, and goals for the year ahead. The purpose of this meeting is to give you a big-picture view of the lab and how all our work fits together. 
+- Annual State of the Lab: In December, before the holiday break, I'll use a lab meeting slot to provide a state of the lab update for the year. This is an opportunity for all of us to get a sense of how we fared in terms of goal accomplishments, our overall funding situation, broad project outlines, and goals for the year ahead. The purpose of this meeting is to give you a big-picture view of the lab and how all our work fits together. 
 
-Individual Meetings with Joe: This is your standing protected time with me. I will never cancel these meetings, though you are absolutely allowed to reschedule if needed. I will speak up if cancellations occur frequently. Meetings are ~30-60 minutes long. The primary purpose is to discuss data, formulate testable hypotheses, banter about favorite papers, and anything on your mind. Ensure your experiments have positive and negative controls, and bring ideas for discussion if you're unsure about which controls to use. We can also discuss any other concerns. To maximize efficiency, come prepared with a rough agenda of what you'd like to discuss. Bring data in the form of slides or a printout, and start by recapping where we left off on that topic previously.
+**Individual Meetings with Joe:** This is your standing protected time with me. I will never cancel these meetings, though you are absolutely allowed to reschedule if needed. I will speak up if cancellations occur frequently. Meetings are ~30-60 minutes long. The primary purpose is to discuss data, formulate testable hypotheses, banter about favorite papers, and anything on your mind. Ensure your experiments have positive and negative controls, and bring ideas for discussion if you're unsure about which controls to use. We can also discuss any other concerns. To maximize efficiency, come prepared with a rough agenda of what you'd like to discuss. Bring data in the form of slides or a printout, and start by recapping where we left off on that topic previously.
 
-Biochemistry Department Student Seminars: These seminars are mandatory for all graduate students in the department. They are usually scheduled during the fall, winter, and spring on Mondays around noon.
+**Biochemistry Department Student Seminars:** These seminars are mandatory for all graduate students in the department. They are usually scheduled during the fall, winter, and spring on Mondays around noon.
 
-Biochemistry / RNA Center Departmental Seminars: Typically held on Thursdays at 4 PM during the fall, winter, and spring. While not expressly mandatory, they are highly recommended for all lab members. 
+**Biochemistry / RNA Center Departmental Seminars:** Typically held on Thursdays at 4 PM during the fall, winter, and spring. While not expressly mandatory, they are highly recommended for all lab members. 
 
-Ad-hoc meetings: Send me an email or schedule a meeting on our Google Calendar if you need to talk for any reason. Even better, feel free to stop by my office; unless I'm in a meeting, my door is always open!
+**Ad-hoc meetings:** Send me an email or schedule a meeting on our Google Calendar if you need to talk for any reason. Even better, feel free to stop by my office; unless I'm in a meeting, my door is always open!
 
 ## Electronic Lab Notebooks
 
-"Because the faintest ink is always better than the sharpest memory"
+*"Because the faintest ink is always better than the sharpest memory"*
 
 Maintaining a meticulous and up-to-date electronic lab notebook is not only good scientific practice but also a legal requirement. It is crucial for the reproducibility of our work and for meeting the obligations set by grant institutions, publishers, and the School.
 
@@ -99,9 +97,9 @@ We currently use "Benchling" as our primary electronic lab notebook platform, wi
 
 Here's a helpful workflow to ensure your notebook is always up to date:
 
-Before starting an experiment, map out the entire procedure in your notebook.
-Print out the protocol and take it with you to the bench where you perform the wet lab work.
-After completing the experiment, edit the document as needed and add the data files.
+1. Before starting an experiment, map out the entire procedure in your notebook.
+2. Print out the protocol and take it with you to the bench where you perform the wet lab work.
+3. After completing the experiment, edit the document as needed and add the data files.
 
 By following this practice, you'll be able to keep your notebook current and well-organized. Make sure to allocate dedicated time each week to update your notebook.
 
@@ -149,9 +147,9 @@ Please provide drafts well in advance, allowing me ample time to offer thoughtfu
 Depending on the initial quality of the material, expect to undergo at least two rounds of revisions. This iterative process is essential for refining your work.
 
 For graduate students and postdocs presenting their research:
-Submit abstracts for my review at least three weeks before the deadline.
-Present your first practice talk to the lab 10 days before the big presentation (student seminar or conference talk), typically during our Wednesday lab meeting.
-Share your second practice talk and posters with the lab one week before the big day.
+- Submit abstracts for my review at least three weeks before the deadline.
+- Present your first practice talk to the lab 10 days before the big presentation (student seminar or conference talk), typically during our Wednesday lab meeting.
+- Share your second practice talk and posters with the lab one week before the big day.
 
 I understand that this level of preparation and revision may seem daunting at first, but I assure you that it will become more manageable with practice. By investing time and effort into this process, you will not only improve the quality of your individual work but also contribute to the overall success and reputation of our lab.
 
@@ -161,17 +159,17 @@ Attending conferences is an essential part of your scientific growth and profess
 
 To help offset the costs associated with conference attendance, lab members are expected to make a good-faith effort to secure partial or full funding for meeting and travel expenses. This can be achieved by:
 
-Applying for departmental, university, and society travel grants
-Volunteering at the conference
-Sharing accommodations with other attendees
+- Applying for departmental, university, and society travel grants
+- Volunteering at the conference
+- Sharing accommodations with other attendees
 
 I'll make every effort to try to avoid needing reimbursements but sometimes this can be unavoidable. 
 
 When preparing for a conference, please adhere to the following timeline:
 
-Submit abstracts for review by me and your co-authors at least four weeks before the submission deadline.
-Present your first practice talk to the lab at least one month before the conference. This gives you an opportunity to receive feedback from your colleagues and refine your presentation skills.
-Deliver your second practice talk and present your poster to the lab during a lab meeting or an additional meeting one week prior to the conference. This final practice session will help you feel more confident and prepared for your actual presentation.
+- Submit abstracts for review by me and your co-authors at least four weeks before the submission deadline.
+- Present your first practice talk to the lab at least one month before the conference. This gives you an opportunity to receive feedback from your colleagues and refine your presentation skills.
+- Deliver your second practice talk and present your poster to the lab during a lab meeting or an additional meeting one week prior to the conference. This final practice session will help you feel more confident and prepared for your actual presentation.
 
 I understand that preparing for a conference can be stressful, but remember that you have the full support of your lab mates and myself. We are all invested in your success and want to help you make the most of these valuable experiences. 
 
@@ -179,9 +177,9 @@ Lastly, remember to have fun and enjoy the experience! Conferences are not only 
 
 ## A Word on Mistakes
 
-Always remember: you are not your experiment!
+*Always remember: you are not your experiment!*
 
-Everyone (graduate students, postdocs, and myself) will make mistakes in the lab. Quoting one of my graduate advisors: "You'll never completely master a technique unless you've messed up each step once." Be honest and forthright when you have made a mistake so we can learn together. Apologize if warranted. Learn from your mistakes and strive not to make the same mistake twice. But most of all, be kind to yourself. Science is hard and mistakes are a natural, and dare I say it, celebrated part of the learning process.
+Everyone (graduate students, postdocs, and myself) will make mistakes in the lab. Quoting one of my graduate advisors: "You'll never completely master a technique unless you've messed up each step once." Be honest and forthright when you have made a mistake so we can learn together. Apologize if warranted. Learn from your mistakes and strive not to make the same mistake twice. But most of all, be kind to yourself. Science is hard and mistakes are a natural, and dare I say it, *celebrated* part of the learning process.
 
 ## Specific Expectations for the Different Members of the Lab
 
@@ -189,123 +187,123 @@ In this section, I want to close with what are some specific expectations for ev
 
 ### My commitments to you (in the broadest sense):
 
-I promise to be present and to care about your well-being and development
-Anything you tell me will be held in confidence. For sensitive issues, I may seek advice and mentoring from colleagues I trust and will always do so from a perspective that puts you first. 
-I will consult the lab when new people will potentially join us
+- I promise to be present and to care about your well-being and development
+- Anything you tell me will be held in confidence. For sensitive issues, I may seek advice and mentoring from colleagues I trust and will always do so from a perspective that puts you first. 
+- I will consult the lab when new people will potentially join us
 
 ### Expectations for postdocs:
 
 #### Science
-Take ownership of your project and drive it forward. In the early phase, I'm here to help direct you, especially if you're entering a new field by joining the lab. But the goal is to get you to be as independent as possible.  
-If your career plan is to stay in academia, you will additionally need to develop your own independent projects as time moves on. I will assist you in that. 
-Write manuscripts and aim to produce one first-author paper every other year.
+- Take ownership of your project and drive it forward. In the early phase, I'm here to help direct you, especially if you're entering a new field by joining the lab. But the goal is to get you to be as independent as possible.  
+- If your career plan is to stay in academia, you will additionally need to develop your own independent projects as time moves on. I will assist you in that. 
+- Write manuscripts and aim to produce one first-author paper every other year.
 
 #### Funding
-Seek external funding opportunities. I understand that options may be limited for non-US citizens/residents. To ensure a thorough revision process, send me a first draft of your application six weeks before the deadline. 
-Help write reports if on a grant funded project.
+- Seek external funding opportunities. I understand that options may be limited for non-US citizens/residents. To ensure a thorough revision process, send me a first draft of your application six weeks before the deadline. 
+- Help write reports if on a grant funded project.
 
 #### Stakeholder management and teamwork
-Review manuscripts from other lab members. 
-Participate in talk rehearsals with your colleagues. Engage in lab meetings. 
-Hearing your new exciting data and successes any time even outside our regular meetings is always a blast. 
+- Review manuscripts from other lab members. 
+- Participate in talk rehearsals with your colleagues. Engage in lab meetings. 
+- Hearing your new exciting data and successes any time even outside our regular meetings is always a blast. 
 
 #### Leadership
-Be a role model and co-mentor for younger lab members.
-Co-mentor at least one PhD student. 
-Mentor at least one undergraduate or summer student.
+- Be a role model and co-mentor for younger lab members.
+- Co-mentor at least one PhD student. 
+- Mentor at least one undergraduate or summer student.
 
 ### My responsibilities to you as postdoc:
 
 #### Career development and training
-Discuss career goals and make an individualized training plan that works towards those goals.
-Create an Individual Development Plan and reevaluate it with you at least once per year. 
-Guide and advise you on leadership, management, and budgeting skills. 
-Provide input on presentations to further your communication skills.
-Introduce you and your work to as many people as possible
-Assist with navigating the academic job market – reviewing application documents, assist in preparing job talks and chalk talks etc. 
+- Discuss career goals and make an individualized training plan that works towards those goals.
+- Create an Individual Development Plan and reevaluate it with you at least once per year. 
+- Guide and advise you on leadership, management, and budgeting skills. 
+- Provide input on presentations to further your communication skills.
+- Introduce you and your work to as many people as possible
+- Assist with navigating the academic job market – reviewing application documents, assist in preparing job talks and chalk talks etc. 
 
 #### Science
-Develop project ideas, including independent projects that can be taken with you. 
-Regular scheduled meetings to provide guidance on experiments and interpretation of results and discuss progress and pitfalls.
-Help write, review and submit manuscripts.
+- Develop project ideas, including independent projects that can be taken with you. 
+- Regular scheduled meetings to provide guidance on experiments and interpretation of results and discuss progress and pitfalls.
+- Help write, review and submit manuscripts.
 
 #### Funding
-Provide funding. 
-Share the funding status of the lab with the team once a year. 
-Assist with identifying and writing postdoctoral fellowships. Help develop grant writing skills.
+- Provide funding. 
+- Share the funding status of the lab with the team once a year. 
+- Assist with identifying and writing postdoctoral fellowships. Help develop grant writing skills.
 
 ### Expectations for PhD and MD/PhD students:
 
 #### Science
-Take increasing ownership of your project as you progress through your degree. I will provide close guidance in the early stages, but the goal is for you to become more independent over time.
-Develop a deep understanding of your research area and contribute to shaping the direction of your project.
-Write manuscripts, aiming to have at least two first-author papers by the time you graduate. 
+- Take increasing ownership of your project as you progress through your degree. I will provide close guidance in the early stages, but the goal is for you to become more independent over time.
+- Develop a deep understanding of your research area and contribute to shaping the direction of your project.
+- Write manuscripts, aiming to have at least two first-author papers by the time you graduate. 
 
 #### Funding
-Apply for external funding opportunities, such as fellowships and travel grants. I will guide you through the application process.
-Contribute to grant reports when applicable.
+- Apply for external funding opportunities, such as fellowships and travel grants. I will guide you through the application process.
+- Contribute to grant reports when applicable.
 
 #### Professional Development
-Actively participate in lab meetings, journal clubs, and departmental seminars.
-Present your work at group meetings and seek opportunities to share your research at conferences.
-Collaborate with and learn from your labmates.
-Mentor junior lab members, such as undergraduates or summer students.
+- Actively participate in lab meetings, journal clubs, and departmental seminars.
+- Present your work at group meetings and seek opportunities to share your research at conferences.
+- Collaborate with and learn from your labmates.
+- Mentor junior lab members, such as undergraduates or summer students.
 
 ### My responsibilities to you as PhD and MD/PhD students:
 
 #### Career development and training
-Discuss career goals and create an individualized training plan that supports your aspirations. We will create an Individual Development Plan together and review it together at least once a year.
-Provide guidance and resources to help you build leadership and mentoring skills.
-Offer feedback on presentations and help you refine your scientific communication skills.
-Introduce you and your work to colleagues and collaborators in the field.
-Support your exploration of diverse career paths and connect you with relevant resources and contacts.
+- Discuss career goals and create an individualized training plan that supports your aspirations. We will create an Individual Development Plan together and review it together at least once a year.
+- Provide guidance and resources to help you build leadership and mentoring skills.
+- Offer feedback on presentations and help you refine your scientific communication skills.
+- Introduce you and your work to colleagues and collaborators in the field.
+- Support your exploration of diverse career paths and connect you with relevant resources and contacts.
 
 #### Science and Publications
-Guide you in developing your research project and help you navigate challenges.
-Hold regular meetings to discuss your progress, provide guidance on experiments, and interpret results.
-Help you develop critical thinking, problem-solving, and scientific reasoning skills.
-Guide you through the entire publication process - from idea to experiment to preprint to journal acceptance 
-Encourage you to present your work at conferences and help you prepare abstracts and presentations.
-Read and help edit your thesis 
+- Guide you in developing your research project and help you navigate challenges.
+- Hold regular meetings to discuss your progress, provide guidance on experiments, and interpret results.
+- Help you develop critical thinking, problem-solving, and scientific reasoning skills.
+- Guide you through the entire publication process - from idea to experiment to preprint to journal acceptance 
+- Encourage you to present your work at conferences and help you prepare abstracts and presentations.
+- Read and help edit your thesis 
 
 #### Funding
-Secure funding for your research projects and stipend support.
-Share the lab's funding status with the team annually and discuss any potential impact on your work.
-Guide you through the process of applying for fellowships, travel grants, and other funding opportunities.
-Help you develop grant writing skills by providing feedback on your proposals and involving you in the lab's grant writing process when appropriate.
+- Secure funding for your research projects and stipend support.
+- Share the lab's funding status with the team annually and discuss any potential impact on your work.
+- Guide you through the process of applying for fellowships, travel grants, and other funding opportunities.
+- Help you develop grant writing skills by providing feedback on your proposals and involving you in the lab's grant writing process when appropriate.
 
 ### Expectations for Master's students and undergraduates:
 
 #### Coursework and Research Balance
-Prioritize your coursework and maintain good academic standing.
-Dedicate a reasonable amount of time to research, as discussed with me or your lab mentor.
-Communicate any coursework-related challenges that may impact your research.
+- Prioritize your coursework and maintain good academic standing.
+- Dedicate a reasonable amount of time to research, as discussed with me or your lab mentor.
+- Communicate any coursework-related challenges that may impact your research.
 
 #### Research Skills Development
-Engage actively in lab meetings and journal clubs to learn from others.
-Take initiative in learning new techniques and understanding the broader context of your project.
-Ask questions and seek guidance when needed.
-But most of all, have fun! You're here to learn and we're here to help you catch the science bug.
+- Engage actively in lab meetings and journal clubs to learn from others.
+- Take initiative in learning new techniques and understanding the broader context of your project.
+- Ask questions and seek guidance when needed.
+- But most of all, **have fun!** You're here to learn and we're here to help you catch the science bug.
 
 #### Scientific Communication
-Develop your scientific writing skills through reports, proposals, and presentations.
-Participate in group meetings and present your work at research symposia.
+- Develop your scientific writing skills through reports, proposals, and presentations.
+- Participate in group meetings and present your work at research symposia.
 
 ### My responsibilities to you as a Master's student or undergraduate:
 
 #### Mentorship and Guidance
-Provide guidance and support as you balance coursework and research.
-Help you develop a project that aligns with your interests and goals.
-Meet with you regularly to discuss your progress and provide feedback.
-Encourage your participation in lab meetings, journal clubs, and other lab events
+- Provide guidance and support as you balance coursework and research.
+- Help you develop a project that aligns with your interests and goals.
+- Meet with you regularly to discuss your progress and provide feedback.
+- Encourage your participation in lab meetings, journal clubs, and other lab events
 
 #### Skill Development
-Guide you in learning new techniques and developing your research skills.
-Help you understand the broader context and significance of your project.
-Provide resources and support for improving your scientific writing and presentation skills.
+- Guide you in learning new techniques and developing your research skills.
+- Help you understand the broader context and significance of your project.
+- Provide resources and support for improving your scientific writing and presentation skills.
 
 #### Career Exploration and Preparation
-Discuss your career interests and provide guidance on potential paths.
-Offer advice on graduate school applications, if applicable.
-Connect you with resources for career exploration and development.
-Provide opportunities to interact with and learn from other lab members.
+- Discuss your career interests and provide guidance on potential paths.
+- Offer advice on graduate school applications, if applicable.
+- Connect you with resources for career exploration and development.
+- Provide opportunities to interact with and learn from other lab members.
