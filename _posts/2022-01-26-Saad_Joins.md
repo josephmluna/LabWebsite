@@ -1,5 +1,6 @@
 ---
 title: Welcome Saad!
+image: images/people/saad.jpg
 author: joe-luna
 ---
 

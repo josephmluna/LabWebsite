@@ -1,5 +1,6 @@
 ---
 title: Welcome Seonghwan!
+image: images/people/seonghwan.jpg
 author: joe-luna
 ---
 
