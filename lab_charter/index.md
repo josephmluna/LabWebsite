@@ -5,7 +5,7 @@ nav:
   tooltip: Being in the lab
 ---
 
-# Luna Lab Charter
+# {% include icon.html icon="fa-solid fa-compass-drafting" %}Luna Lab Charter
 {:.center}
 
 *Last edited 2024-07-01 v2*
