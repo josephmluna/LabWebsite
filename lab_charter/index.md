@@ -14,6 +14,9 @@ nav:
 Welcome to the Luna lab! The team and I are excited you want to work with us.
 {:.center}
 
+Below are some thoughts on how I'd like the lab to function. These ideas reflect the values and expectations that as a group we feel are important to creating and maintaining a healthy work environment. As this is a living document, we will revisit these ideas periodically and collaboratively as new lab members join and provide valuable feedback.
+{:.center}
+
 ## Table of Contents
 - [Safety and Health](#safety-and-health)
 - [Collegiality, Teamwork, and Lab Citizenship](#collegiality-teamwork-and-lab-citizenship)
@@ -27,9 +30,6 @@ Welcome to the Luna lab! The team and I are excited you want to work with us.
 - [Conferences](#conferences)
 - [A Word on Mistakes](#a-word-on-mistakes)
 - [Specific Expectations for the Different Members of the Lab](#specific-expectations-for-the-different-members-of-the-lab)
-
-
-Below are some thoughts on how I'd like the lab to function. These ideas reflect the values and expectations that as a group we feel are important to creating and maintaining a healthy work environment. As this is a living document, we will revisit these ideas periodically and collaboratively as new lab members join and provide valuable feedback.
 
 ## Safety and Health
 
