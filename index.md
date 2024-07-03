@@ -1,81 +1,11 @@
 ---
 ---
 
-# josephmlunaDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
-
-
-{% include section.html %}
-
-## Highlights
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Unraveling viral secrets through RNA biology
+The Luna Lab is a team of molecular biologists and virologists dedicated to understanding how RNA-binding proteins orchestrate cellular responses during viral infections. We use RNA viruses as tools to uncover fundamental principles of RNA biology and develop potential therapeutic strategies for viral diseases and RNA-related disorders. We employ a diverse toolkits including reverse genetics, functional genomics, advanced RNA profiling techniques, and innovative subcellular imaging methods. Current work focuses on mapping the dynamic spatial interactions between viral genomes and host factors, decoding the regulatory logic of RNA-protein networks, and developing novel tools to study RNA biology at unprecedented resolution.
 
 {%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
+  include figure.html
+  image="images/photos/LunaLab2024.jpg"
+  width="90%"
 %}

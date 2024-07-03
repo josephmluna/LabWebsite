@@ -59,13 +59,13 @@ We are committed to fostering an inclusive and equitable environment that welcom
 
 Our lab recognizes that diversity is a key driver of scientific excellence. By bringing together a multitude of perspectives, experiences, and approaches, we can tackle complex problems without groupthink to more effectively innovate in ways that would be impossible otherwise. 
 
-However, we also acknowledge that academia has long struggled with issues of systemic bias and underrepresentation. As a lab, we are committed to being part of the solution. We actively work to identify and dismantle biases, promote mutual understanding, and create a space where everyone feels supported and empowered to succeed.
+We also acknowledge that academia has long struggled with issues of systemic bias and underrepresentation. As a lab, we are committed to being part of the solution. We actively work to identify and dismantle biases, promote mutual understanding, and create a space where everyone feels supported and empowered to succeed.
 
 To help in this ongoing process, I encourage you to explore the resources in our lab library on topics such as representation, crucial conversations, and emotional intelligence. These tools can help us navigate challenges, have productive discussions, and maintain an inclusive culture. 
 
 Additionally, I strongly recommend attending school-wide events related to diversity, equity, and inclusion. These are valuable opportunities to learn, engage with the broader community, and bring new ideas back to our lab.
 
-Lastly, we believe that food brings people together! We regularly share treats and dishes from the various places we call home. Have a special treat that you made too much of? Bring it on over!
+Lastly, we believe that food brings people together! We regularly share treats and dishes from the various places we call home. Have a special treat that you made too much of? Mom sent you home with too many tamales / kimchi / soan papdi / cannoli? Bring them on over! 
 
 ## Meetings
 
@@ -86,6 +86,8 @@ We have several types of lab meetings, and their frequency and scheduling are ba
 **Biochemistry / RNA Center Departmental Seminars:** Typically held on Thursdays at 4 PM during the fall, winter, and spring. While not expressly mandatory, they are highly recommended for all lab members. 
 
 **Ad-hoc meetings:** Send me an email or schedule a meeting on our Google Calendar if you need to talk for any reason. Even better, feel free to stop by my office; unless I'm in a meeting, my door is always open!
+
+**The Great Luna Lab Cookout:** Usually in May / June around graduation, we take a Monday off and go to the park and have a cookout. While everyone else is working, we're grilling and having a good time. 
 
 ## Electronic Lab Notebooks
 
