@@ -58,13 +58,3 @@ We're integrating our experimental data with state-of-the-art bioinformatics to 
   headline="Modeling RBP networks"
   text=text
 %}
-
-## How we do science
-
-**Open Science and Transparency **
-The Luna Lab is committed to open, transparent, and reproducible research. We:
-
-- Share all our code and analyses as open-source
-- Make our data publicly available on GEO and othe repositories
-- Release preprints of our work before formal publication
-- Publish in peer-reviewed journals for broader dissemination
