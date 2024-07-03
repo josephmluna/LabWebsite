@@ -23,9 +23,9 @@
 }
 
 :root {
-  --title: "FinalSixBold", "Roboto Slab", sans-serif;
-  --heading: "FinalSixBold", "Roboto Slab", sans-serif;
-  --body: "Montserrat", sans-serif;
+  --title: "FinalSixBold", "Barlow", sans-serif;
+  --heading: "FinalSixBold", "Barlow", sans-serif;
+  --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
