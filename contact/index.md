@@ -7,32 +7,22 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Get in Touch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are located in the Department of Biochemistry and Center for RNA Science and Therapeutics in the Case Western Reserve University School of Medicine. 
 
-{%
-  include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
+## Lab Positions
+### Graduate Students
 
-{% include section.html %}
+We are always looking out for exceptional and creative graduate students from a variety of backgrounds. Please email Joe with your CV and research interests. Prospective Graduate Students can apply to our lab through the [Biomedical Science Training Program (BSTP)](https://case.edu/medicine/bstp) or the [Medical Scientist Training Program (MSTP)](https://case.edu/medicine/mstp/). Email Joe in advance of the application deadline whenever possible.
 
-{% capture col1 %}
+## Undergraduates
+
+We welcome enthusiastic undergraduates interested in gaining hands-on research experience. A commitment of at least two years (including a summer) is recommended to allow students to develop valuable laboratory skills and contribute meaningfully to ongoing research projects. Undergraduate researchers can earn course credit for their work, and while academic year positions are on a volunteer basis, there are excellent opportunities for summer funding. I encourage students to explore these resources:
+
+- [SOURCE Summer Undergraduate Research Programs](https://case.edu/studentlife/ugresearch/find-programs-and-funding/undergraduate-research-office-funded-programs#Summer)
+- [Dept. of Biochemsitry Hanson Fellowship](https://case.edu/medicine/biochemistry/degrees/BA-BS/Hanson-Scholar-Program)
+- [Provost Summer Undergraduate Research Grant (PSURG)](https://case.edu/studentlife/ugresearch/find-programs-and-funding/undergraduate-research-office-funded-programs/provost-summer)
+
+If you're interested in joining us, please email Joe with your CV (or resume), major, research interests, and availability. We're excited to help nurture the next generation of scientists!
 
 {%
   include figure.html
@@ -40,38 +30,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   caption="Lorem ipsum"
 %}
 
-{% endcapture %}
 
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
