@@ -25,7 +25,7 @@ We're developing innovative tools to capture and analyze RBP:RNA interactions wi
 
 {%
   include feature.html
-  image="images/research/cortical-spindle-lgn-stim.png"
+  image="images/research/CoCLIP.png"
   headline="Subcellular tools for RBP:RNA interactions"
   text=text
 %}
@@ -40,7 +40,7 @@ Using positive-sense RNA viruses as model systems, we're investigating how RBPs 
 
 {%
   include feature.html
-  image="images/research/closed-loop-visual-system.png"
+  image="images/research/Lifecycle.png"
   headline="Decoding RBP dynamics during infection"
   text=text
 %}
@@ -54,7 +54,7 @@ We're integrating our experimental data with state-of-the-art bioinformatics to 
 
 {%
   include feature.html
-  image="images/research/preclinical-amblyopia-research.png"
+  image="images/research/Livecell.gif"
   headline="Modeling RBP networks"
   text=text
 %}
