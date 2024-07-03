@@ -14,8 +14,22 @@ nav:
 Welcome to the Luna lab! The team and I are excited you want to work with us.
 {:.center}
 
+## Table of Contents
+- [Safety and Health](#safety-and-health)
+- [Collegiality, Teamwork, and Lab Citizenship](#collegiality-teamwork-and-lab-citizenship)
+- [Work Hours](#work-hours)
+- [Race and Diversity](#race-and-diversity)
+- [Meetings](#meetings)
+- [Electronic Lab Notebooks](#electronic-lab-notebooks)
+- [Career Development](#career-development)
+- [Authorship](#authorship)
+- [Revisions for Abstracts, Grants, Presentations and Manuscripts](#revisions-for-abstracts-grants-presentations-and-manuscripts)
+- [Conferences](#conferences)
+- [A Word on Mistakes](#a-word-on-mistakes)
+- [Specific Expectations for the Different Members of the Lab](#specific-expectations-for-the-different-members-of-the-lab)
+
+
 Below are some thoughts on how I'd like the lab to function. These ideas reflect the values and expectations that as a group we feel are important to creating and maintaining a healthy work environment. As this is a living document, we will revisit these ideas periodically and collaboratively as new lab members join and provide valuable feedback.
-{:.center}
 
 ## Safety and Health
 
@@ -33,7 +47,7 @@ I am always here to help you find the resources you need when challenges arise.
 
 ## Collegiality, Teamwork, and Lab Citizenship
 
-*Curiosity + kindness + team spirit = good science*
+> Curiosity + kindness + team spirit = good science
 
 A supportive and collaborative environment is essential for our lab's success. Each member brings unique perspectives and contributions, and we believe that by working together with open communication and mutual respect, we can achieve more than any individual could alone.
 
@@ -47,7 +61,7 @@ Flexibility in working hours is possible as long as it doesn't hinder the lab's 
 
 We understand that everyone has different work styles and goes through various phases of intensity. Work hours are generally flexible, but productivity is key.
 
-To ensure effective collaboration and safety, we encourage everyone to be physically present during core hours *(M-F, 10 AM to 4 PM)*, in addition to attending mandatory meetings and seminars. Some may prefer early mornings, while others work better in the evenings, but these core hours allow for essential overlap.
+To ensure effective collaboration and safety, we encourage everyone to be physically present during core hours **(M-F, 10 AM to 4 PM)**, in addition to attending mandatory meetings and seminars. Some may prefer early mornings, while others work better in the evenings, but these core hours allow for essential overlap.
 
 If you'll be out of the lab for a day or more, inform me via email or Slack. If you're feeling ill, stay home, rest, and coordinate with colleagues to cover your responsibilities. We're a team, and supporting each other is crucial.
 
@@ -91,7 +105,7 @@ We have several types of lab meetings, and their frequency and scheduling are ba
 
 ## Electronic Lab Notebooks
 
-*"Because the faintest ink is always better than the sharpest memory"*
+> "Because the faintest ink is always better than the sharpest memory"
 
 Maintaining a meticulous and up-to-date electronic lab notebook is not only good scientific practice but also a legal requirement. It is crucial for the reproducibility of our work and for meeting the obligations set by grant institutions, publishers, and the School.
 
@@ -121,12 +135,12 @@ Remember, your career development is a collaborative effort. I am here to suppor
 
 ## Authorship
 
-We follow the IJME rules for authorship:
+We follow the [IJME rules for authorship:](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)
 
-Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND
-Drafting the work or revising it critically for important intellectual content; AND
-Final approval of the version to be published; AND
-Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+- Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND
+- Drafting the work or revising it critically for important intellectual content; AND
+- Final approval of the version to be published; AND
+- Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
 
 For projects driven primarily by PhD students or postdocs, there will typically be a lead author (first author) responsible for drafting the initial manuscript, with my guidance. However, the approach may be more collaborative for other projects depending on their nature. Regardless of the project, I'm here to mentor you through the entire process - from conception to publication - including project management aspects.
 
@@ -179,7 +193,7 @@ Lastly, remember to have fun and enjoy the experience! Conferences are not only 
 
 ## A Word on Mistakes
 
-*Always remember: you are not your experiment!*
+> *Always remember: you are not your experiment!*
 
 Everyone (graduate students, postdocs, and myself) will make mistakes in the lab. Quoting one of my graduate advisors: "You'll never completely master a technique unless you've messed up each step once." Be honest and forthright when you have made a mistake so we can learn together. Apologize if warranted. Learn from your mistakes and strive not to make the same mistake twice. But most of all, be kind to yourself. Science is hard and mistakes are a natural, and dare I say it, *celebrated* part of the learning process.
 
