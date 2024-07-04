@@ -8,6 +8,11 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Get in Touch
 
 We are located in the Department of Biochemistry and Center for RNA Science and Therapeutics in the Case Western Reserve University School of Medicine. 
+{%
+  include figure.html
+  image="images/photos/CWRU_sign.jpg"
+  width="90%"
+%}
 
 ## Lab Positions
 ### Graduate Students
@@ -23,11 +28,3 @@ We welcome enthusiastic undergraduates interested in gaining hands-on research e
 - [Provost Summer Undergraduate Research Grant (PSURG)](https://case.edu/studentlife/ugresearch/find-programs-and-funding/undergraduate-research-office-funded-programs/provost-summer)
 
 If you're interested in joining us, please email me (Joe) with your resume, major, research interests, and availability. We're excited to help nurture the next generation of scientists!
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-
