@@ -1,8 +1,8 @@
 ---
-title: Joe gives talk at biochem retreat
+title: Joe gives keynote talk at biochem retreat
 image: images/photo.jpg
-author: Joe
-tags: talks
+author:
+tags: presentations
 ---
 
-Joe gives Keynote talk at the Biochemistry Dept Annual Retreat.
+Joe gives a keynote talk at the Biochemistry Dept Annual Retreat.
