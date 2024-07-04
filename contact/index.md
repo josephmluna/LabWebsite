@@ -17,7 +17,7 @@ We are located in the Department of Biochemistry and Center for RNA Science and 
 ## Lab Positions
 ### Graduate Students
 
-We are always looking out for exceptional and creative graduate students from a variety of backgrounds. Please email Joe with your CV and research interests. Prospective Graduate Students can apply to our lab through the [Biomedical Science Training Program (BSTP)](https://case.edu/medicine/bstp) or the [Medical Scientist Training Program (MSTP)](https://case.edu/medicine/mstp/). Email Joe in advance of the application deadline whenever possible.
+We are always looking out for exceptional and creative graduate students from a variety of backgrounds. Please email Joe with your CV and research interests. Prospective Graduate Students can apply to our lab through the [Biomedical Science Training Program (BSTP)](https://case.edu/medicine/bstp) or the [Medical Scientist Training Program (MSTP)](https://case.edu/medicine/mstp/). Email me in advance of the application deadline whenever possible for more info.
 
 ### Undergraduates
 
@@ -27,4 +27,4 @@ We welcome enthusiastic undergraduates interested in gaining hands-on research e
 - [Dept. of Biochemsitry Hanson Fellowship](https://case.edu/medicine/biochemistry/degrees/BA-BS/Hanson-Scholar-Program)
 - [Provost Summer Undergraduate Research Grant (PSURG)](https://case.edu/studentlife/ugresearch/find-programs-and-funding/undergraduate-research-office-funded-programs/provost-summer)
 
-If you're interested in joining us, please email me (Joe) with your resume, major, research interests, and availability. We're excited to help nurture the next generation of scientists!
+If you're interested in joining us, please email me (jml371 at case dot edu) with your resume, major, research interests, and availability. We're excited to help nurture the next generation of scientists!
