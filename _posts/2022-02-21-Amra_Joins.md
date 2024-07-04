@@ -1,7 +1,7 @@
 ---
 title: Welcome Amra!
 image: images/people/amra.jpg
-author: joe-luna
+author:
 tags: people
 ---
 

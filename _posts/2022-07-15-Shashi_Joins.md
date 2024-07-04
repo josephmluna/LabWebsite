@@ -1,7 +1,7 @@
 ---
 title: Welcome Shashi!
 image: images/people/shashi.jpg
-author: joe-luna
+author:
 tags: people
 ---
 
