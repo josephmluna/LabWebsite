@@ -5,4 +5,4 @@ author:
 tags: awards
 ---
 
-Jillian awarded a Hansen summer scholarship!
+Jillian awarded a Hansen summer scholarship. Go Jillian!
