@@ -32,7 +32,7 @@ We're developing innovative tools to capture and analyze RBP:RNA interactions wi
 
 {% capture text %}
 **Decoding RBP Dynamics in Viral Infections:**
-Using positive-sense RNA viruses as model systems, we're investigating how RBPs coordinate viral replication. We use viral reverse genetics, CRISPR screening, and advanced RNA profiling to map the dynamic interactions between viral genomes and host RBPs throughout the infection cycle. Our goal is to unravel the regulatory logic behind how RBPs can both support and antagonize viral replication.
+Using positive-sense RNA viruses as model systems, we're investigating how RBPs how cellular RBPs orchestrate the balance between viral genome replication, translation, and virion assembly. We use viral reverse genetics, CRISPR screening, and advanced RNA profiling to map the dynamic interactions between viral genomes and host RBPs throughout the infection cycle. Our goal is to unravel the regulatory logic of RBPs during infection with an eye toward novel antivirals and therapeutics.
 <br>
 
 {:.center}
@@ -46,15 +46,15 @@ Using positive-sense RNA viruses as model systems, we're investigating how RBPs 
 %}
 
 {% capture text %}
-**Modeling RBP Networks in Cellular Stress**
-We're using our experimental data with state-of-the-art bioinformatics to build models of RBP activities and interaction networks during changing cell states. By analyzing how RBP:RNA interactions change in response to stress, we aim to develop experimental frameworks to tune RBP behavior in various  contexts. This work bridges our experimental work with systems-level understanding of RNA regulation.
+**Modeling RBP Networks during Innate Immunity**
+Host recognition of viral RNA by RBPs is among the foundational steps of innate immune sensing, yet how this process is coordinated among RBPs with different downstream outcomes is unknown. We use our experimental data with state-of-the-art bioinformatics tool to build models of RBP activities and interaction networks during changing cell states. By analyzing how RBP:RNA interactions change in response to infection, we aim to predict key regulatory nodes and potential vulnerabilities in the host-pathogen interface, guiding future experimental validations and therapeutic strategies. This work bridges our experimental work with a systems-level understanding of RNA regulation.
 
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/research/Livecell.gif"
-  headline="Modeling RBP networks"
+  image="images/research/Sensing.png"
+  headline="Sensing RBP networks"
   text=text
 %}
