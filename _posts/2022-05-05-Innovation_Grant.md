@@ -1,5 +1,6 @@
 ---
 title: The lab's first grant
+image: images/photo.jpg
 author: joe-luna
 tags: funding
 ---
