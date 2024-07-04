@@ -30,6 +30,7 @@ Below are some thoughts on how I'd like the lab to function. These ideas reflect
 - [Conferences](#conferences)
 - [A Word on Mistakes](#a-word-on-mistakes)
 - [Specific Expectations for the Different Members of the Lab](#specific-expectations-for-the-different-members-of-the-lab)
+- [Colophon](#colophon)
 
 ## Safety and Health
 
@@ -150,24 +151,26 @@ Open communication is key for a transparent authorship process. I encourage ever
 
 ## Revisions for Abstracts, Grants, Presentations and Manuscripts
 
-In order to allow for meaningful revisions, you will need to run abstracts, grants, presentations and manuscripts by me ahead of time. 
+Conference abstracts, presentations, grant applications, and manuscripts are the primary outputs of our lab, showcasing our research to the scientific community. Papers, in particular, are major milestones where we have the luxury of setting our own deadlines. This allows us to ensure our work is of the highest quality before submission.
 
-Conference abstracts, presentations, grant applications, and manuscripts are the primary outputs of our lab, showcasing our research to the scientific community. To ensure that these materials effectively convey our work in a clear, honest, and compelling manner, it's essential that you share them with me well in advance for meaningful feedback and revisions.
+To ensure that these materials effectively convey our work in a clear, honest, and compelling manner, it's essential that you share them with me well in advance for meaningful feedback and revisions. For papers, expect multiple rounds of iteration - this is normal and necessary for producing excellent work.
 
 I understand that each of you will develop your own unique writing style and design aesthetic. My role is to guide you in honing these skills, helping you craft your scientific message for various audiences. This mentorship is a crucial aspect of your training, and I am committed to providing you with the tools and support you need to excel in these areas.
 
 To facilitate a productive revision process, please follow these guidelines:
 
-Please provide drafts well in advance, allowing me ample time to offer thoughtful feedback. The earlier you share your work, the more opportunities we have for meaningful improvements.
-
-Depending on the initial quality of the material, expect to undergo at least two rounds of revisions. This iterative process is essential for refining your work.
+- For papers and/or grants, aim to provide complete drafts well in advance of an agreed upon submission date. We should plan for **at least 3-4 rounds** of revision before submission.
+- I will strive to return comments **within one week** of receiving a draft. If I anticipate delays, I will communicate this promptly.
+- For other materials (abstracts, presentations), follow the timelines below.
 
 For graduate students and postdocs presenting their research:
-- Submit abstracts for my review at least three weeks before the deadline.
-- Present your first practice talk to the lab 10 days before the big presentation (student seminar or conference talk), typically during our Wednesday lab meeting.
-- Share your second practice talk and posters with the lab one week before the big day.
 
-I understand that this level of preparation and revision may seem daunting at first, but I assure you that it will become more manageable with practice. By investing time and effort into this process, you will not only improve the quality of your individual work but also contribute to the overall success and reputation of our lab.
+- Submit abstracts for my review **at least three weeks** before the deadline.
+- Depending on the material, expect to undergo at least **two rounds of revisions.** This iterative process is essential for refining your work.
+- Present your first practice talk to the lab **10 days before** the big presentation (student seminar or conference talk), typically during our Wednesday lab meeting.
+- Share your second practice talk and posters with the lab **3 days before** the big day.
+
+I understand that this level of preparation and revision may seem daunting at first, but I assure you that it will become more manageable with practice. By investing time and effort into this process, you will not only improve the quality of your individual work but also contribute to the overall success and reputation of our lab. Remember, high-quality papers are one of the most enduring products of your scientific work - they're worth the effort!
 
 ## Conferences
 
@@ -187,7 +190,7 @@ When preparing for a conference, please adhere to the following timeline:
 - Present your first practice talk to the lab at least one month before the conference. This gives you an opportunity to receive feedback from your colleagues and refine your presentation skills.
 - Deliver your second practice talk and present your poster to the lab during a lab meeting or an additional meeting one week prior to the conference. This final practice session will help you feel more confident and prepared for your actual presentation.
 
-I understand that preparing for a conference can be stressful, but remember that you have the full support of your lab mates and myself. We are all invested in your success and want to help you make the most of these valuable experiences. 
+Preparing for a conference can be stressful, but remember that you have the full support of your lab mates and myself. We are all invested in your success and want to help you make the most of these valuable experiences. 
 
 Lastly, remember to have fun and enjoy the experience! Conferences are not only about presenting your work but also about immersing yourself in new ways of thinking, forging new connections, and finding inspiration for your future research. I've met and made so many friends at these over the years and you never know how these connections will pay off later in your journey. 
 
@@ -195,7 +198,7 @@ Lastly, remember to have fun and enjoy the experience! Conferences are not only 
 
 > *Always remember: you are not your experiment!*
 
-Everyone (graduate students, postdocs, and myself) will make mistakes in the lab. Quoting one of my graduate advisors: "You'll never completely master a technique unless you've messed up each step once." Be honest and forthright when you have made a mistake so we can learn together. Apologize if warranted. Learn from your mistakes and strive not to make the same mistake twice. But most of all, be kind to yourself. Science is hard and mistakes are a natural, and dare I say it, *celebrated* part of the learning process.
+Everyone (graduate students, postdocs, and myself) will make mistakes in the lab. Think of mistakes as a natural part of becoming an expert; the truism that you can't fully master a technique until you've messed up each step at least once is apt here. Be honest and forthright when you have made a mistake so we can learn together. Apologize if warranted. The critical thing is to learn from your mistakes and strive not to make the same mistake twice. But most of all, be kind to yourself. Science is hard and mistakes are a natural, and dare I say it, *celebrated* part of the learning process.
 
 ## Specific Expectations for the Different Members of the Lab
 
@@ -235,7 +238,7 @@ In this section, I want to close with what are some specific expectations for ev
 - Create an Individual Development Plan and reevaluate it with you at least once per year. 
 - Guide and advise you on leadership, management, and budgeting skills. 
 - Provide input on presentations to further your communication skills.
-- Introduce you and your work to as many people as possible
+- Introduce you and your work to as many people as possible.
 - Assist with navigating the academic job market – reviewing application documents, assist in preparing job talks and chalk talks etc. 
 
 #### Science
@@ -323,3 +326,8 @@ In this section, I want to close with what are some specific expectations for ev
 - Offer advice on graduate school applications, if applicable.
 - Connect you with resources for career exploration and development.
 - Provide opportunities to interact with and learn from other lab members.
+
+## Colophon
+This lab charter draws inspiration from the collective wisdom of many scientific mentors and leaders. I am particularly grateful to [Dr. Meike Dittmann](https://www.dittmannlab.com/open-positions), whose lab charter provided a valuable foundation (text adapted with permission).
+
+Science thrives on the open exchange of ideas, and we hope this charter will, in turn, inspire and assist future PIs in developing their own lab cultures. We encourage the adaptation and evolution of this charter to suit the unique needs of other research groups. If you find this document helpful in crafting your own lab policies, we'd be delighted to hear about it.
