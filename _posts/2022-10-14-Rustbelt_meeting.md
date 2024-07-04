@@ -1,6 +1,6 @@
 ---
 title: The RRM comes to CWRU
-image: images/photo.jpg
+image: images/graphics/RRM_logo.png
 author:
 tags: conferences
 ---
