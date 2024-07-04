@@ -5,4 +5,4 @@ author:
 tags: conferences
 ---
 
-The lab ventures to the Rustbelt RNA meeting in the nearby nealth education campus.
+The lab ventures to the Rustbelt RNA meeting in the nearby health education campus.
