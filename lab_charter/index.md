@@ -36,7 +36,7 @@ Below are some thoughts on how I'd like the lab to function. These ideas reflect
 
 These items are paramount. Team members must follow safety regulations at all times and without negligence. Your physical and mental health are also critical for your ability to work well together and perform high-quality science.
 
-We work with BSL2 pathogens and you must take these pathogens seriously. Lab members are expected to adhere to lab safety rules, as set by lab protocols, Institutional biosafety committee (IBC) protocols, institutional and NIH guidelines, at all times. This will ensure that you and your lab mates are working in a safe environment. Lab members must complete all required lab, biosafety, and radiation safety training modules from Environmental Health and Safety (EHS), read and sign our lab Exposure Control Plan (ECP), and be familiar with our Chemical Hygiene Plan (CHP) before beginning lab work. These documents are revised and updated institutionally once a year, and we all refresh our memories annually with dedicated training from EHS, and in-lab refresher training.
+We work with BSL2 pathogens and radioisotopes and you must take these using these tools with safety in mind seriously. Lab members are expected to adhere to lab safety rules, as set by lab protocols, Institutional biosafety committee (IBC) protocols, institutional and NIH guidelines, at all times. This will ensure that you and your lab mates are working in a safe environment. Lab members must complete all required lab, biosafety, and radiation safety training modules from Environmental Health and Safety (EHS), read and sign our lab Exposure Control Plan (ECP), and be familiar with our Chemical Hygiene Plan (CHP) before beginning lab work. These documents are revised and updated institutionally once a year, and we all refresh our memories annually with dedicated training from EHS, and in-lab refresher training.
 
 Maintaining physical and mental health is important for good science. The better supported we are, the more productive we tend to be. Many aspects of science can be stressful, but always remember that you are not alone. If you are experiencing a hard time, CWRU has many resources that may be able to help at:
 [CWRU Mental Health Resources](https://case.edu/wellness/campuswide-resources/mental-health-resources)
@@ -102,11 +102,11 @@ We have several types of lab meetings, and their frequency and scheduling are ba
 
 **Ad-hoc meetings:** Send me an email or schedule a meeting on our Google Calendar if you need to talk for any reason. Even better, feel free to stop by my office; unless I'm in a meeting, my door is always open!
 
-**The Great Luna Lab Cookout:** Usually in May / June around graduation, we take a Monday off and go to the park and have a cookout. While everyone else is working, we're grilling and having a good time. 
+**The Great Luna Lab Cookout:** Usually in May / June around graduation, we take a Monday off and go to the park and have a cookout. It's always a fun time! 
 
 ## Electronic Lab Notebooks
 
-> "Because the faintest ink is always better than the sharpest memory"
+> "Because even the faintest ink is better than the sharpest memory"
 
 Maintaining a meticulous and up-to-date electronic lab notebook is not only good scientific practice but also a legal requirement. It is crucial for the reproducibility of our work and for meeting the obligations set by grant institutions, publishers, and the School.
 
