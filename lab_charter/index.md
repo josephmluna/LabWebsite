@@ -324,7 +324,7 @@ In this section, I want to close with what are some specific expectations for ev
 #### Career Exploration and Preparation
 - Discuss your career interests and provide guidance on potential paths.
 - Offer advice on graduate school applications, if applicable.
-- Connect you with resources for career exploration and development.
+- Connect you with resources such as smmer funding for career exploration and development.
 - Provide opportunities to interact with and learn from other lab members.
 
 ## Colophon
