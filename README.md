@@ -1,6 +1,6 @@
 
 # Website for the Luna Lab at Case Western Reserve University
 
-Visit **[josephmluna.github.io/LabWebsite](https://josephmluna.github.io/LabWebsite)** 🚀
+Visit **[lunalab.org](http://lunalab.org)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
