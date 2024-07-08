@@ -58,11 +58,9 @@ We have established practices to strengthen collaboration, such as participating
 
 ## Work Hours
 
-Flexibility in working hours is possible as long as it doesn't hinder the lab's functioning or your individual progress. Time off is important to maintain your well-being.
+Flexibility in working hours is a key feature of our lab, as long as it doesn't hinder the lab's functioning or your individual progress. We understand that everyone has different work styles and goes through various phases of intensity. While we expect a full-time commitment (typically around 8 hours per day), the specific schedule is flexible.
 
-We understand that everyone has different work styles and goes through various phases of intensity. Work hours are generally flexible, but productivity is key.
-
-To ensure effective collaboration and safety, we encourage everyone to be physically present during core hours **(M-F, 10 AM to 4 PM)**, in addition to attending mandatory meetings and seminars. Some may prefer early mornings, while others work better in the evenings, but these core hours allow for essential overlap.
+To ensure effective collaboration and safety, we encourage everyone to be physically present during core overlap hours **(M-F, 10 AM to 4 PM).** This doesn't mean these are the only hours you should work, but rather a period when we can expect everyone to be available for meetings, experimental advice, and shared resources. Some may prefer to start early and finish early, while others might choose to come in later and work into the evening. The key is to find a schedule that optimizes your productivity while ensuring availability to the team.
 
 If you'll be out of the lab for a day or more, inform me via email or Slack. If you're feeling ill, stay home, rest, and coordinate with colleagues to cover your responsibilities. We're a team, and supporting each other is crucial.
 
