@@ -184,9 +184,9 @@ I'll make every effort to try to avoid needing reimbursements but sometimes this
 
 When preparing for a conference, please adhere to the following timeline:
 
-- Submit abstracts for review by me and your co-authors at least four weeks before the submission deadline.
-- Present your first practice talk to the lab at least one month before the conference. This gives you an opportunity to receive feedback from your colleagues and refine your presentation skills.
-- Deliver your second practice talk and present your poster to the lab during a lab meeting or an additional meeting one week prior to the conference. This final practice session will help you feel more confident and prepared for your actual presentation.
+- Submit abstracts for review by me and your co-authors **at least three weeks** before the submission deadline, ideally the early registration deadline.
+- Present your first practice talk to the lab **at least three weeks** before the conference. This gives you an opportunity to receive feedback from your colleagues and refine your presentation skills.
+- Deliver your second practice talk and present your poster to the lab during a lab meeting or an additional meeting **one week** prior to the conference. This final practice session will help you feel more confident and prepared for your actual presentation.
 
 Preparing for a conference can be stressful, but remember that you have the full support of your lab mates and myself. We are all invested in your success and want to help you make the most of these valuable experiences. 
 
@@ -196,7 +196,7 @@ Lastly, remember to have fun and enjoy the experience! Conferences are not only 
 
 > *Always remember: you are not your experiment!*
 
-Everyone (graduate students, postdocs, and myself) will make mistakes in the lab. Think of mistakes as a natural part of becoming an expert; the truism that you can't fully master a technique until you've messed up each step at least once is apt here. Be honest and forthright when you have made a mistake so we can learn together. Apologize if warranted. The critical thing is to learn from your mistakes and strive not to make the same mistake twice. But most of all, be kind to yourself. Science is hard and mistakes are a natural, and dare I say it, *celebrated* part of the learning process.
+Everyone (students, postdocs, and myself) will make mistakes in the lab. Think of mistakes as a natural part of becoming an expert; the truism that you can't fully master a technique until you've messed up each step at least once is apt here. Be honest and forthright when you have made a mistake so we can learn together. Apologize if warranted. The critical thing is to learn from your mistakes and strive not to make the same mistake twice. But most of all, be kind to yourself. Science is hard and mistakes are a natural, and dare I say it, *celebrated* part of the learning process.
 
 ## Specific Expectations for the Different Members of the Lab
 
