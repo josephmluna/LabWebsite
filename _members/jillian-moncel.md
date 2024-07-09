@@ -1,6 +1,6 @@
 ---
 name: Jillian Moncel
-image: images/photo.jpg
+image: images/people/jillian.jpg
 role: current-undergrad
 ---
 
