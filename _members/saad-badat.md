@@ -4,4 +4,4 @@ image: images/people/saad.jpg
 role: alum-undergrad
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hi! I am Saad and I built the first version of this website. I was a Biology major and am now attending medical school at... I worked developing cell segmentation pipelines for live-cell imaging to quantify dynamic stress repsonses in cells.
