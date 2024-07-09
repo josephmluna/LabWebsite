@@ -78,7 +78,7 @@ To help in this ongoing process, I encourage you to explore the resources in our
 
 Additionally, I strongly recommend attending school-wide events related to diversity, equity, and inclusion. These are valuable opportunities to learn, engage with the broader community, and bring new ideas back to our lab.
 
-Lastly, we believe that food brings people together! We regularly share treats and dishes from the various places we call home. Have a special treat that you made too much of? Mom sent you home with too many tamales / kimchi / soan papdi / cannoli? Bring them on over! 
+Lastly, we believe that food brings people together! We regularly share treats and dishes from the various places we call home. Have a special treat that you made too much of? Family sent you home with too many tamales / kimchi / soan papdi / cannoli? Bring them on over! 
 
 ## Meetings
 
