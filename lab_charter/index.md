@@ -14,7 +14,7 @@ nav:
 Welcome to the Luna lab! The team and I are excited you want to work with us.
 {:.center}
 
-Below are some thoughts on how I'd like the lab to function. These ideas reflect the values and expectations that as a group we feel are important to creating and maintaining a healthy work environment. As this is a living document, we will revisit these ideas periodically and collaboratively as new lab members join and provide valuable feedback.
+Below are details on how the lab functions. These ideas reflect the values and expectations that as a group we feel are important to creating and maintaining a healthy work environment. As this is a living document, we will revisit these ideas periodically and collaboratively as new lab members join and provide valuable feedback.
 {:.center}
 
 ## Table of Contents
@@ -54,7 +54,7 @@ A supportive and collaborative environment is essential for our lab's success. E
 
 To foster collegiality, be the kind of lab member you would want to work with. Take initiative in maintaining shared spaces and resources, be mindful of scheduled time on equipment, and communicate effectively with your colleagues. Offer help willingly and ask for assistance when needed. Address any issues directly and respectfully.
 
-We have established practices to strengthen collaboration, such as participating in the recruitment process, maintaining transparent electronic notebooks, attending lab meetings, and developing project plans. I encourage open communication among all lab members to create a sense of community and facilitate productive collaborations.
+We have established practices to strengthen ease of collaboration, such as participating in the recruitment process, maintaining transparent electronic notebooks, attending lab meetings, and developing project plans. I encourage open communication among all lab members to create a sense of community and facilitate productive collaborations.
 
 ## Work Hours
 
