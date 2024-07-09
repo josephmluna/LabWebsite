@@ -204,9 +204,9 @@ In this section, I want to close with what are some specific expectations for ev
 
 ### My commitments to you (in the broadest sense):
 
-- I promise to be present and to care about your well-being and development
+- I promise to be present and to care about your well-being and development.
 - Anything you tell me will be held in confidence. For sensitive issues, I may seek advice and mentoring from colleagues I trust and will always do so from a perspective that puts you first. 
-- I will consult the lab when new people will potentially join us
+- I will consult the lab when new people will potentially join us.
 
 ### Expectations for postdocs:
 
