@@ -155,13 +155,13 @@ To ensure that these materials effectively convey our work in a clear, honest, a
 
 I understand that each of you will develop your own unique writing style and design aesthetic. My role is to guide you in honing these skills, helping you craft your scientific message for various audiences. This mentorship is a crucial aspect of your training, and I am committed to providing you with the tools and support you need to excel in these areas.
 
-To facilitate a productive revision process, please follow these guidelines:
+*Guidelines for grants and papers:*
 
 - For papers and/or grants, aim to provide complete drafts well in advance of an agreed upon submission date. We should plan for **at least 3-4 rounds** of revision before submission.
 - I will strive to return comments **within one week** of receiving a draft. If I anticipate delays, I will communicate this promptly.
 - For other materials (abstracts, presentations), follow the timelines below.
 
-For conference posters and talks:
+*Guidelines for abstracts, posters, and talks:*
 
 - Submit abstracts or talk titles for my review **at least three weeks** before the submission deadline, ideally the early registration deadline..
 - Depending on the material, expect to undergo at least **two rounds of revisions.** This iterative process is essential for refining your work.
