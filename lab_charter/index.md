@@ -161,12 +161,12 @@ To facilitate a productive revision process, please follow these guidelines:
 - I will strive to return comments **within one week** of receiving a draft. If I anticipate delays, I will communicate this promptly.
 - For other materials (abstracts, presentations), follow the timelines below.
 
-For graduate students and postdocs presenting their research:
+For conference posters and talks:
 
-- Submit abstracts for my review **at least three weeks** before the deadline.
+- Submit abstracts or talk titles for my review **at least three weeks** before the submission deadline, ideally the early registration deadline..
 - Depending on the material, expect to undergo at least **two rounds of revisions.** This iterative process is essential for refining your work.
-- Present your first practice talk to the lab **10 days before** the big presentation (student seminar or conference talk), typically during our Wednesday lab meeting.
-- Share your second practice talk and posters with the lab **3 days before** the big day.
+- Present your poster or practice talk to the lab **at least two weeks before** the conference, typically during our Wednesday lab meeting.
+- Share your second practice talk and posters with the lab **one week before** the conference. Keep in mind that posters will need a business day or two to print. 
 
 I understand that this level of preparation and revision may seem daunting at first, but I assure you that it will become more manageable with practice. By investing time and effort into this process, you will not only improve the quality of your individual work but also contribute to the overall success and reputation of our lab. Remember, high-quality papers are one of the most enduring products of your scientific work - they're worth the effort!
 
@@ -180,15 +180,7 @@ To help offset the costs associated with conference attendance, lab members are 
 - Volunteering at the conference
 - Sharing accommodations with other attendees
 
-I'll make every effort to try to avoid needing reimbursements but sometimes this can be unavoidable. 
-
-When preparing for a conference, please adhere to the following timeline:
-
-- Submit abstracts for review by me and your co-authors **at least three weeks** before the submission deadline, ideally the early registration deadline.
-- Present your first practice talk to the lab **at least three weeks** before the conference. This gives you an opportunity to receive feedback from your colleagues and refine your presentation skills.
-- Deliver your second practice talk and present your poster to the lab during a lab meeting or an additional meeting **one week** prior to the conference. This final practice session will help you feel more confident and prepared for your actual presentation.
-
-Preparing for a conference can be stressful, but remember that you have the full support of your lab mates and myself. We are all invested in your success and want to help you make the most of these valuable experiences. 
+I'll make every effort to try to avoid needing reimbursements but sometimes this may be unavoidable. Preparing for a conference can be stressful, but remember that you have the full support of your lab mates and myself. We are all invested in your success and want to help you make the most of these valuable experiences. 
 
 Lastly, remember to have fun and enjoy the experience! Conferences are not only about presenting your work but also about immersing yourself in new ways of thinking, forging new connections, and finding inspiration for your future research. I've met and made so many friends at these over the years and you never know how these connections will pay off later in your journey. 
 
@@ -328,4 +320,4 @@ In this section, I want to close with what are some specific expectations for ev
 ## Colophon
 This lab charter draws inspiration from the collective wisdom of many scientific mentors and leaders. I am particularly grateful to [Dr. Meike Dittmann](https://www.dittmannlab.com/open-positions), whose lab charter provided a valuable foundation (text adapted with permission).
 
-Science thrives on the open exchange of ideas, and we hope this charter will, in turn, inspire and assist future PIs in developing their own lab cultures. We encourage the adaptation and evolution of this charter to suit the unique needs of other research groups. If you find this document helpful in crafting your own lab policies, we'd be delighted to hear about it.
+Science thrives on the open exchange of ideas, and we hope this charter will, in turn, inspire and assist current and future PIs in developing their own lab cultures. We encourage the adaptation and evolution of this charter to suit the unique needs of other research groups. If you find this document helpful in crafting your own lab policies, we'd be delighted to hear about it.
