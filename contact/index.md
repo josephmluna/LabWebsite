@@ -17,7 +17,7 @@ We are located in the Department of Biochemistry and Center for RNA Science and 
 ## Lab Positions
 ### Graduate Students
 
-We are always looking out for exceptional and creative graduate students from a variety of backgrounds. Please email Joe with your CV and research interests. Prospective Graduate Students can apply to our lab through the [Biomedical Science Training Program (BSTP)](https://case.edu/medicine/bstp) or the [Medical Scientist Training Program (MSTP)](https://case.edu/medicine/mstp/). Email me in advance of the application deadline whenever possible for more info.
+We are always looking out for exceptional and creative graduate students from a variety of backgrounds. Please email me with your CV and research interests. Prospective Graduate Students can apply to our lab through the [Biomedical Science Training Program (BSTP)](https://case.edu/medicine/bstp) or the [Medical Scientist Training Program (MSTP)](https://case.edu/medicine/mstp/). Email in advance of the application deadline whenever possible for more info.
 
 ### Undergraduates
 
