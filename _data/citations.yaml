@@ -156,48 +156,6 @@
   joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:36103835
-  title: Human hepatocyte PNPLA3-148M exacerbates rapid non-alcoholic fatty liver
-    disease development in chimeric mice.
-  authors:
-  - Mohammad Kabbani
-  - Eleftherios Michailidis
-  - Sandra Steensels
-  - Clifton G Fulmer
-  - Joseph M Luna
-  - "J\xE9r\xE9mie Le Pen"
-  - Matteo Tardelli
-  - Brandon Razooky
-  - Inna Ricardo-Lax
-  - Chenhui Zou
-  - Briana Zeck
-  - Ansgar F Stenzel
-  - Corrine Quirk
-  - Lander Foquet
-  - Alison W Ashbrook
-  - William M Schneider
-  - Serkan Belkaya
-  - Gadi Lalazar
-  - Yupu Liang
-  - Meredith Pittman
-  - Lindsey Devisscher
-  - Hiroshi Suemizu
-  - Neil D Theise
-  - Luis Chiriboga
-  - David E Cohen
-  - Robert Copenhaver
-  - Markus Grompe
-  - Philip Meuleman
-  - Baran A Ersoy
-  - Charles M Rice
-  - Ype P de Jong
-  publisher: Cell reports
-  date: '2022-09-13'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36103835
-  orcid: 0000-0003-2415-9203
-  joe-luna: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41467-022-29308-2
   title: Lung type II alveolar epithelial cells collaborate with CCR2+ inflammatory
     monocytes in host defense against poxvirus infection
