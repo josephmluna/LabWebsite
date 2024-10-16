@@ -425,25 +425,6 @@
   joe-luna: true
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:28735896
-  title: Argonaute CLIP Defines a Deregulated miR-122-Bound Transcriptome that Correlates
-    with Patient Survival in Human Liver Cancer.
-  authors:
-  - Joseph M Luna
-  - Juan M Barajas
-  - Kun-Yu Teng
-  - Hui-Lung Sun
-  - Michael J Moore
-  - Charles M Rice
-  - Robert B Darnell
-  - Kalpana Ghoshal
-  publisher: Molecular cell
-  date: '2017-07-20'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28735896
-  orcid: 0000-0003-2415-9203
-  joe-luna: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.15252/embj.201695933
   title: 'Present and not reporting for duty: ds<scp>RNA</scp>i in mammalian cells'
   authors:
