@@ -9,15 +9,15 @@
   align-items: center;
   flex-direction: column;
   margin: 20px;
-  width: 175px;
-  height: 280px;
+  width: 192px;
+  height: 308px;
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
 
 .portrait[data-style=small] {
-  width: 100px;
-  height: 160px;
+  width: 110px;
+  height: 176px;
 }
 
 .portrait[data-style=tiny] {
@@ -35,7 +35,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: calc(20px + 10%);
+  width: calc(22px + 10%);
   aspect-ratio: 1/1;
   border-radius: 999px;
   background: var(--background);
@@ -54,24 +54,24 @@
 
 .portrait-image {
   width: 100%;
-  max-width: 175px;
-  min-height: 233px;
-  margin-bottom: 20px;
+  max-width: 192px;
+  min-height: 256px;
+  margin-bottom: 22px;
   aspect-ratio: 3/4;
-  border-radius: 10px;
+  border-radius: 11px;
   object-fit: cover;
   object-position: center;
   box-shadow: var(--shadow);
 }
 
 .portrait[data-style=small] .portrait-image {
-  width: 100px;
-  min-height: 133px;
+  width: 110px;
+  min-height: 146px;
 }
 
 .portrait[data-style=tiny] .portrait-image {
-  width: 50px;
-  min-height: 67px;
+  width: 55px;
+  min-height: 74px;
   margin: 0;
 }
 
