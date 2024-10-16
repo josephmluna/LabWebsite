@@ -12,7 +12,7 @@ links:
   github: josephmluna
 ---
 
-I'm an Assistant Professor at the Department of Biochemistry and Center for RNA Science and Therapeutics at Case Western Reserve University, School of Medicine. My research focuses on how RNA virus genomes interact with host proteins for replication and how cells sense invading viral genomes to initiate immune responses.
+I'm an Assistant Professor at the Department of Biochemistry and Center for RNA Science and Therapeutics at Case Western Reserve University, School of Medicine. My research focuses on how RNA virus genomes interact with host proteins for replication and how cells sense invading viral genomes to initiate immune responses
 
 Originally from El Paso, Texas, I became interested in molecular biology at a young age. As a first-generation college student, I earned my B.S. in Molecular Biophysics and Biochemistry from Yale University in 2006, where I first gained lab experience working with Dr. Thomas Biederer. My journey in virology began with a Postbaccalaureate Research Education Program (PREP) fellowship under Dr. Walther Mothes, also at Yale, studying anti-retroviral restriction factors.
 I received my Ph.D. from The Rockefeller University in 2015, training with Drs. Robert Darnell and Charlie Rice. There, I applied next-generation sequencing methods to study small RNA interactions during hepatitis C virus infection. During my postdoc in the Rice lab, I used systems-level approaches to explore host-pathogen interactions at the RNA level in various disease-relevant settings, from COVID-19 to liver cancer. My research has been published in journals including Cell, PLoS Pathogens, and Science.
