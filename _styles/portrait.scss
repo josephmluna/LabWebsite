@@ -11,22 +11,22 @@
   align-items: center;
   flex-direction: column;
   margin: 20px;
-  width: 175px;
-  height: 280px;  // Added explicit height
+  width: 192px;  // Increased from 175px (10% larger)
+  height: 308px;  // Increased from 280px (10% larger)
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
 
 .portrait[data-style="small"] {
-  width: 100px;
-  height: 160px;  // Adjusted height for small style
+  width: 110px;  // Increased from 100px (10% larger)
+  height: 176px;  // Increased from 160px (10% larger)
 }
 
 .portrait[data-style="tiny"] {
   flex-direction: row;
   gap: 15px;
   width: unset;
-  height: auto;  // Allow height to adjust for tiny style
+  height: auto;
   text-align: left;
 }
 
@@ -37,7 +37,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: calc(20px + 10%);
+  width: calc(22px + 10%);  // Slightly increased for larger portraits
   aspect-ratio: 1 / 1;
   border-radius: 999px;
   background: var(--background);
@@ -56,24 +56,24 @@
 
 .portrait-image {
   width: 100%;
-  max-width: 175px;
-  min-height: 233px;  // Changed to min-height
-  margin-bottom: 20px;
+  max-width: 192px;  // Increased from 175px (10% larger)
+  min-height: 256px;  // Increased from 233px (10% larger)
+  margin-bottom: 22px;  // Slightly increased for larger portraits
   aspect-ratio: 3 / 4;
-  border-radius: 10px;
+  border-radius: 11px;  // Slightly increased for larger portraits
   object-fit: cover;
-  object-position: center;  // Ensure image is centered
+  object-position: center;
   box-shadow: var(--shadow);
 }
 
 .portrait[data-style="small"] .portrait-image {
-  width: 100px;
-  min-height: 133px;  // Changed to min-height
+  width: 110px;  // Increased from 100px (10% larger)
+  min-height: 146px;  // Increased from 133px (10% larger)
 }
 
 .portrait[data-style="tiny"] .portrait-image {
-  width: 50px;
-  min-height: 67px;  // Changed to min-height
+  width: 55px;  // Increased from 50px (10% larger)
+  min-height: 74px;  // Increased from 67px (10% larger)
   margin: 0;
 }
 
