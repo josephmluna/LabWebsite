@@ -12,18 +12,21 @@
   flex-direction: column;
   margin: 20px;
   width: 175px;
+  height: 280px;  // Added explicit height
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
 
 .portrait[data-style="small"] {
   width: 100px;
+  height: 160px;  // Adjusted height for small style
 }
 
 .portrait[data-style="tiny"] {
   flex-direction: row;
   gap: 15px;
   width: unset;
+  height: auto;  // Allow height to adjust for tiny style
   text-align: left;
 }
 
@@ -39,7 +42,7 @@
   border-radius: 999px;
   background: var(--background);
   box-shadow: var(--shadow);
-  transform: translate(14%, 7%);  // Adjusted for taller images
+  transform: translate(14%, 7%);
 }
 
 .portrait[data-style="small"] .icon {
@@ -54,22 +57,23 @@
 .portrait-image {
   width: 100%;
   max-width: 175px;
-  height: 233px;  // Approximately 4:3 ratio for 175px width
+  min-height: 233px;  // Changed to min-height
   margin-bottom: 20px;
   aspect-ratio: 3 / 4;
   border-radius: 10px;
   object-fit: cover;
+  object-position: center;  // Ensure image is centered
   box-shadow: var(--shadow);
 }
 
 .portrait[data-style="small"] .portrait-image {
   width: 100px;
-  height: 133px;  // 4:3 ratio for 100px width
+  min-height: 133px;  // Changed to min-height
 }
 
 .portrait[data-style="tiny"] .portrait-image {
   width: 50px;
-  height: 67px;  // 4:3 ratio for 50px width
+  min-height: 67px;  // Changed to min-height
   margin: 0;
 }
 
