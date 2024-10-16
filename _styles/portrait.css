@@ -10,18 +10,21 @@
   flex-direction: column;
   margin: 20px;
   width: 175px;
+  height: 280px;
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
 
 .portrait[data-style=small] {
   width: 100px;
+  height: 160px;
 }
 
 .portrait[data-style=tiny] {
   flex-direction: row;
   gap: 15px;
   width: unset;
+  height: auto;
   text-align: left;
 }
 
@@ -52,22 +55,23 @@
 .portrait-image {
   width: 100%;
   max-width: 175px;
-  height: 233px;
+  min-height: 233px;
   margin-bottom: 20px;
   aspect-ratio: 3/4;
   border-radius: 10px;
   object-fit: cover;
+  object-position: center;
   box-shadow: var(--shadow);
 }
 
 .portrait[data-style=small] .portrait-image {
   width: 100px;
-  height: 133px;
+  min-height: 133px;
 }
 
 .portrait[data-style=tiny] .portrait-image {
   width: 50px;
-  height: 67px;
+  min-height: 67px;
   margin: 0;
 }
 
