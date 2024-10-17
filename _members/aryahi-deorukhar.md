@@ -1,6 +1,6 @@
 ---
 name: Aryahi Deorukhkar
-image: images/aryahi.jpg
+image: images/people/aryahi.jpg
 role: current-undergrad
 ---
 
