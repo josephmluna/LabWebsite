@@ -1,6 +1,6 @@
 ---
 name: Alexa Schnell
-image: images/people/photo.jpg
+image: images/people/alexa.jpg
 role: current-rotation
 brief-position: Non-invasive transcriptomics
 brief-desc: Rotation Student
