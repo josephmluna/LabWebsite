@@ -21,4 +21,8 @@ footer .icon {
   font-size: var(--xl);
 }
 
+footer img.icon {
+  height: var(--xl);
+}
+
 /*# sourceMappingURL=footer.css.map */
