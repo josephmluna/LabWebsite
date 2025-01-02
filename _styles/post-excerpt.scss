@@ -1,8 +1,10 @@
 ---
 ---
 
-$thumb-size: 200px;
-$wrap: 800px;
+:root {
+  --thumb-size: 200px;
+  --wrap: 800px;
+}
 
 .post-excerpt-container {
   container-type: inline-size;
