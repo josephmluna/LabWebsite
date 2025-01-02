@@ -21,7 +21,6 @@ $wrap: 800px;
   position: relative;
   width: $thumb-size;
   flex-shrink: 0;
-  // box-shadow: var(--shadow);
 }
 
 .post-excerpt-image img {
@@ -61,7 +60,6 @@ $wrap: 800px;
   .post-excerpt {
     flex-direction: column;
   }
-
   .post-excerpt-image {
     width: unset;
     height: $thumb-size;
@@ -71,7 +69,7 @@ $wrap: 800px;
 .post-full-image {
   margin: 2rem auto;
   text-align: center;
-  max-width: 600px; // Container width limit
+  max-width: 600px;
   
   img {
     width: 100%;
