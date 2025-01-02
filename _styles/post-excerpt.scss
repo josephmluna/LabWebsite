@@ -67,3 +67,15 @@ $wrap: 800px;
     height: $thumb-size;
   }
 }
+
+.post-full-image {
+  margin: 2rem 0;
+  text-align: center;
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--rounded);
+    box-shadow: var(--shadow);
+  }
+ }
