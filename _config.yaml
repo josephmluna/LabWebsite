@@ -3,7 +3,7 @@ title: Luna Lab for RNA Systems Virology
 subtitle: Dept. of Biochemistry & RNA Center, Case Western Reserve University
 description: 
 header: images/background_moon.jpg
-footer: images/background.jpg
+footer: images/background_moon.jpg
 proofer: false
 
 # site social media and other links
@@ -12,7 +12,7 @@ links:
   orcid: 0000-0003-2415-9203
   google-scholar: cDt3HzAAAAAJ
   github: LunaRNALab
-  twitter: virologistjoe
+  bluesky: virologistjoe.bsky.social
 
 ### jekyll settings
 
