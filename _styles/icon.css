@@ -12,4 +12,10 @@ span.icon > svg {
   height: 1em;
 }
 
+img.icon {
+  height: 1em;
+  width: auto;
+  vertical-align: middle;
+}
+
 /*# sourceMappingURL=icon.css.map */
