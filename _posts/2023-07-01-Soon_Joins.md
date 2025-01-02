@@ -1,6 +1,6 @@
 ---
 title: Welcome Soon!
-image: images/photos/2023_Soon.jpg
+image: images/people/soon.jpg
 author:
 tags: people
 ---
