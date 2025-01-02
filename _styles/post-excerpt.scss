@@ -21,7 +21,7 @@
 
 .post-excerpt-image {
   position: relative;
-  width: $thumb-size;
+  width: var(--thumb-size);
   flex-shrink: 0;
 }
 
@@ -58,13 +58,13 @@
   width: 100%;
 }
 
-@container (max-width: #{$wrap}) {
+@container (max-width: var(--wrap)) {
   .post-excerpt {
     flex-direction: column;
   }
   .post-excerpt-image {
     width: unset;
-    height: $thumb-size;
+    height: var(--thumb-size);
   }
 }
 
