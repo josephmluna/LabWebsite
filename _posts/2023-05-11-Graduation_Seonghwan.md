@@ -1,5 +1,5 @@
 ---
-title: Seongwhan Graduates
+title: Seonghwan Graduates
 image: images/photos/2023_Seonghwan_Graduates.jpg
 author:
 tags: awards
