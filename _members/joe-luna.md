@@ -28,3 +28,4 @@ Through it all, I began looking toward independence. Cleveland drew me in - the 
 
 The best part of running a lab? Sharing that original El Paso movie theater wonder with students from all backgrounds. I remember that moment when DNA first captured my imagination - now I get to see that same spark in others. Sometimes it's an undergraduate staring at their first perfect gel, or a rotation student realizing their hypothesis was wrong but finding something more interesting instead. Other times it's watching a PhD student use wet lab intuition to come up with a clever new way to analyze seqeuencing data. In moments like these I'm reminded why I love this job: in doing research, we're creating scientists, each with their own story to tell. Ok, enough of my soapbox, go explore other parts of this site and welcome! 
 
+-JL
