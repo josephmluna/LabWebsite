@@ -1,6 +1,6 @@
 ---
 title: Seonghwan defends his Master's thesis. 
-image: images/photo.jpg
+image: images/photos/2023_Seonghwan_Thesis.jpg
 author:
 tags: defense
 ---
