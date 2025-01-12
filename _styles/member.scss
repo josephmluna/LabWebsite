@@ -1,0 +1,24 @@
+---
+---
+
+.member-grid {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 40px;
+  margin: 20px auto;
+  max-width: 1200px;
+}
+
+.sidebar {
+  align-self: start;
+}
+
+.content-column {
+  min-width: 0;
+}
+
+@media (max-width: 768px) {
+  .member-grid {
+    grid-template-columns: 1fr;
+  }
+}
