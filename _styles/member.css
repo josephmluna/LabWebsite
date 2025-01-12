@@ -24,5 +24,9 @@
     width: 100%;
   }
 }
+.bio-content {
+  clear: both;
+  margin-top: 20px;
+}
 
 /*# sourceMappingURL=member.css.map */
