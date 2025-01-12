@@ -5,4 +5,4 @@ author:
 tags: defense
 ---
 
-Soon defends his PhD thesis, and his paper is accpeted on the same day. Congratulations Soon! 
+Soon defends his PhD thesis, and his paper is accepted on the same day. Congratulations Soon! 
