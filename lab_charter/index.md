@@ -111,7 +111,7 @@ Remember, a well-maintained lab notebook is invaluable for your own reference, f
 
 As PI, it is a privilege and responsibility to support your intellectual growth and help you work towards your individual career goals. The lab and I are here to offer guidance, suggest directions, and provide resources, but ultimately, you are in the driver's seat of your own career journey. Always remember that you are not working "for" me or the lab, but rather working "with" us as valued members of a team.
 
-I am committed to supporting lab members with diverse career aspirations, whether within academia or in other industries. I understand that your goals may change over time, and that's completely normal. If you find yourself reevaluating your career path, please don't hesitate to discuss these changes with me. Together, we can realign your training plan to better suit your new trajectory.
+I am committed to supporting lab members with wide-ranging career aspirations, whether within academia or in other industries. I understand that your goals may change over time, and that's completely normal. If you find yourself reevaluating your career path, please don't hesitate to discuss these changes with me. Together, we can realign your training plan to better suit your new trajectory.
 
 When you join the lab, we will work together to draft an individualized career plan and timeline. This plan will serve as a roadmap for your professional development, and we will regularly update it throughout your tenure in the lab. Your success and growth are among my top priorities, and I am dedicated to helping you achieve your goals.
 
@@ -132,7 +132,7 @@ For projects driven primarily by PhD students or postdocs, there will typically 
 
 As the work progresses, all authors are expected to be involved in revising, approving the final version, and taking responsibility for the published work (criteria 2-4). Authorship order and inclusion will be reevaluated periodically, incorporating input from all contributors as the project evolves.
 
-Open communication is key for a transparent authorship process. I encourage everyone to voice any concerns, and I will address them promptly and fairly to ensure a collaborative and equitable experience.
+Open communication is key for a transparent authorship process. I encourage everyone to voice any concerns, and I will address them promptly and fairly to ensure a collaborative experience.
 
 ## Revisions for Abstracts, Grants, Presentations and Manuscripts
 
@@ -252,7 +252,7 @@ In this section, I want to close with what are some specific expectations for ev
 - Provide guidance and resources to help you build leadership and mentoring skills.
 - Offer feedback on presentations and help you refine your scientific communication skills.
 - Introduce you and your work to colleagues and collaborators in the field.
-- Support your exploration of diverse career paths and connect you with relevant resources and contacts.
+- Support your exploration of career paths and connect you with relevant resources and contacts.
 
 #### Science and Publications
 - Guide you in developing your research project and help you navigate challenges.
