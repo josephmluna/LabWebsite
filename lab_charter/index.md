@@ -19,9 +19,8 @@ Below are details on how the lab functions. These ideas reflect the values and e
 
 ## Table of Contents
 - [Safety and Health](#safety-and-health)
-- [Collegiality, Teamwork, and Lab Citizenship](#collegiality-teamwork-and-lab-citizenship)
+- [Collegiality, Teamwork, and Lab Environment](#collegiality-teamwork-and-lab-environment)
 - [Work Hours](#work-hours)
-- [Race and Diversity](#race-and-diversity)
 - [Meetings](#meetings)
 - [Electronic Lab Notebooks](#electronic-lab-notebooks)
 - [Career Development](#career-development)
@@ -46,15 +45,17 @@ Other excellent resources can be found at the Division of Student Affairs:
 
 I am always here to help you find the resources you need when challenges arise.
 
-## Collegiality, Teamwork, and Lab Citizenship
+## Collegiality, Teamwork, and Lab Environment
 
 > Curiosity + kindness + team spirit = good science
 
-A supportive and collaborative environment is essential for our lab's success. Each member brings unique perspectives and contributions, and we believe that by working together with open communication and mutual respect, we can achieve more than any individual could alone.
+A supportive and collaborative environment is essential for our lab's success. Each member brings unique perspectives and contributions, and we believe that by working together with open communication and mutual respect, we can achieve more than any individual could alone. Our lab thrives on creative problem-solving and rigorous scientific inquiry. We value different approaches to research questions and encourage constructive discussions that lead to scientific innovation.
 
 To foster collegiality, be the kind of lab member you would want to work with. Take initiative in maintaining shared spaces and resources, be mindful of scheduled time on equipment, and communicate effectively with your colleagues. Offer help willingly and ask for assistance when needed. Address any issues directly and respectfully.
 
 We have established practices to strengthen ease of collaboration, such as participating in the recruitment process, maintaining transparent electronic notebooks, attending lab meetings, and developing project plans. I encourage open communication among all lab members to create a sense of community and facilitate productive collaborations.
+
+And lastly, we believe that food brings people together! We regularly share treats and dishes from the various places we call home. Have a special treat that you made too much of? Family sent you home with too many tamales / kimchi / soan papdi / cannoli? Bring them on over!
 
 ## Work Hours
 
@@ -65,20 +66,6 @@ To ensure effective collaboration and safety, we encourage everyone to be physic
 If you'll be out of the lab for a day or more, inform me via email or Slack. If you're feeling ill, stay home, rest, and coordinate with colleagues to cover your responsibilities. We're a team, and supporting each other is crucial.
 
 While hard work is important, maintaining work-life balance is equally vital. Take vacations during winter and summer, discussing plans with me in advance. Summer vacations are best scheduled after conference season. Remember, taking time to recharge is essential for your well-being and helps you find the right balance.
-
-## Race and Diversity
-
-We are committed to fostering an inclusive and equitable environment that welcomes and values individuals from all backgrounds.
-
-Our lab recognizes that diversity is a key driver of scientific excellence. By bringing together a multitude of perspectives, experiences, and approaches, we can tackle complex problems without groupthink to more effectively innovate in ways that would be impossible otherwise. 
-
-We also acknowledge that academia has long struggled with issues of systemic bias and underrepresentation. As a lab, we are committed to being part of the solution. We actively work to identify and dismantle biases, promote mutual understanding, and create a space where everyone feels supported and empowered to succeed.
-
-To help in this ongoing process, I encourage you to explore the resources in our lab library on topics such as representation, crucial conversations, and emotional intelligence. These tools can help us navigate challenges, have productive discussions, and maintain an inclusive culture. 
-
-Additionally, I strongly recommend attending school-wide events related to diversity, equity, and inclusion. These are valuable opportunities to learn, engage with the broader community, and bring new ideas back to our lab.
-
-Lastly, we believe that food brings people together! We regularly share treats and dishes from the various places we call home. Have a special treat that you made too much of? Family sent you home with too many tamales / kimchi / soan papdi / cannoli? Bring them on over! 
 
 ## Meetings
 
