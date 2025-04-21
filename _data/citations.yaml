@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.03.28.646018
+  title: Inherent Specificity and Mutational Sensitivity as Quantitative Metrics for
+    RBP Binding
+  authors:
+  - Soon Yi
+  - Shashi S. Singh
+  - Xuan Ye
+  - Rohan Krishna
+  - Eckhard Jankowsky
+  - Joseph M. Luna
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-01'
+  link: https://doi.org/g9dkkw
+  orcid: 0000-0003-2415-9203
+  joe-luna: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:39316623
   title: A genome-wide arrayed CRISPR screen identifies PLSCR1 as an intrinsic barrier
     to SARS-CoV-2 entry that recent virus variants have evolved to resist.
