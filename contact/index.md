@@ -27,4 +27,4 @@ We welcome enthusiastic undergraduates interested in gaining hands-on research e
 - [Dept. of Biochemsitry Hanson Fellowship](https://case.edu/medicine/biochemistry/degrees/BA-BS/Hanson-Scholar-Program)
 - [Provost Summer Undergraduate Research Grant (PSURG)](https://case.edu/studentlife/ugresearch/find-programs-and-funding/undergraduate-research-office-funded-programs/provost-summer)
 
-If you're interested in joining us, please email me (jml371 at case dot edu) with your resume, major, research interests, and availability.
+If you're interested in joining us, [please fill out this form](https://forms.gle/qhtcVN5NnZXUFvBm8)
