@@ -1,5 +1,5 @@
 ---
-title: Joe gives a seminar at in Pharmacology
+title: Joe gives a seminar at CWRU Pharmacology
 image: images/photo.jpg
 author:
 tags: presentations
