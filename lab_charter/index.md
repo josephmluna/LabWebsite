@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-compass-drafting" %}Luna Lab Charter
 {:.center}
 
-*Last edited 2024-07-01 v2*
+*Last edited 2025-07-01 v3*
 {:.center}
 
 Welcome to the Luna lab! The team and I are excited you want to work with us.
@@ -71,7 +71,7 @@ While hard work is important, maintaining work-life balance is equally vital. Ta
 
 We have several types of lab meetings, and their frequency and scheduling are based on the current needs of the lab.
 
-**Lab Meetings / Journal Clubs:** These meetings occur weekly on **Friday mornings from 10:30-11:30 AM.** They are mandatory for everyone except undergraduates, who may have coursework, though all are welcome to attend. Undergrads with Capstone projects are highly recommended to attend. We typically start with a few minutes of lab business and announcements. For these meetings, we alternate between data meetings and interactive journal clubs.
+**Lab Meetings / Journal Clubs:** These meetings occur weekly on **Wednesday mornings from 9:30-10:30 AM.** They are mandatory for everyone except undergraduates, who may have coursework, though all are welcome to attend. Undergrads with Capstone projects are highly recommended to attend. We typically start with a few minutes of lab business and announcements. For these meetings, we alternate between data meetings and interactive journal clubs.
 
 - Data meetings: In these meetings, one person presents a detailed update on their work, including background, data, interpretations, and future directions. Each person might present approximately every 2 months.
 
@@ -87,7 +87,7 @@ We have several types of lab meetings, and their frequency and scheduling are ba
 
 **Ad-hoc meetings:** Send me an email or schedule a meeting on our Google Calendar if you need to talk for any reason. Even better, feel free to stop by my office; unless I'm in a meeting, my door is always open!
 
-**The Great Luna Lab Cookout:** Usually in May / June around graduation, we take a Monday off and go to the park and have a cookout. It's always a fun time! 
+**The Great Luna Lab Cookout:** Usually in May / June around graduation, we take a Friday off and go to the park and have a cookout. It's always a fun time! 
 
 ## Electronic Lab Notebooks
 
