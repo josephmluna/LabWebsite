@@ -71,7 +71,7 @@ While hard work is important, maintaining work-life balance is equally vital. Ta
 
 We have several types of lab meetings, and their frequency and scheduling are based on the current needs of the lab.
 
-**Lab Meetings / Journal Clubs:** These meetings occur weekly on **Wednesday mornings from 9:30-10:30 AM.** They are mandatory for everyone except undergraduates, who may have coursework, though all are welcome to attend. Undergrads with Capstone projects are highly recommended to attend. We typically start with a few minutes of lab business and announcements. For these meetings, we alternate between data meetings and interactive journal clubs.
+**Lab Meetings / Journal Clubs:** These meetings occur weekly on **Wednesday mornings from 9:30-10:30 AM.** They are mandatory for everyone except undergraduates, who may have coursework, though all are welcome to attend. Undergrads with Capstone projects are highly recommended to attend. We typically start with a few minutes of lab business and announcements. For these meetings, we typically alternate between data meetings and interactive journal clubs.
 
 - Data meetings: In these meetings, one person presents a detailed update on their work, including background, data, interpretations, and future directions. Each person might present approximately every 2 months.
 
