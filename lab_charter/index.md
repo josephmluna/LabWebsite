@@ -138,7 +138,7 @@ Open communication is key for a transparent authorship process. I encourage ever
 
 ## Revisions for Abstracts, Grants, Presentations and Manuscripts
 
-Conference abstracts, presentations, grant applications, and manuscripts are the primary outputs of our lab, showcasing our research to the scientific community. Papers, in particular, are major milestones where we have the luxury of setting our own deadlines. This allows us to ensure our work is of the highest quality before submission.
+Conference abstracts, presentations, grant applications, and manuscripts are the primary outputs of our lab, showcasing our research to the scientific community. Papers, in particular, are major milestones where we have some flexibility in setting our own deadlines. This allows us to ensure our work is of the highest quality before submission.
 
 To ensure that these materials effectively convey our work in a clear, honest, and compelling manner, it's essential that you share them with me well in advance for meaningful feedback and revisions. For papers, expect multiple rounds of iteration - this is normal and necessary for producing excellent work.
 
