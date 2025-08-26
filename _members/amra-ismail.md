@@ -1,7 +1,7 @@
 ---
 name: Amra Ismail
 image: images/people/amra.jpg
-role: current-postdoc
+role: alum-postdoc
 brief-position: Stress granules, antiviral responses, live cell imaging
 brief-desc: Postdoctoral Researcher
 ---
