@@ -29,6 +29,9 @@ current-undergrad:
 current-hs:
   description: High School Student
 
+current-volunteer:
+  description: Lab Volunteer
+
 # alumni roles
 alum-manager:
   description: Former Lab Manager
@@ -53,6 +56,9 @@ alum-undergrad:
 
 alum-hs:
   description: Former High School Student
+
+alum-volunteer:
+  description: Former Lab Volunteer
 
 mascot:
   description: Mascot
