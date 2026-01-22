@@ -10,7 +10,7 @@
   - Rohan Krishna
   - Eckhard Jankowsky
   - Joseph M. Luna
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-04-01'
   link: https://doi.org/g9dkkw
   orcid: 0000-0003-2415-9203
@@ -512,7 +512,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15252/embj.201695933
-  title: 'Present and not reporting for duty: ds<scp>RNA</scp>i in mammalian cells'
+  title: "Present and not reporting for duty: ds\n                    <scp>RNA</scp>\n\
+    \                    i in mammalian cells"
   authors:
   - Joseph M Luna
   - Xianfang Wu
@@ -629,8 +630,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/emboj.2012.63
-  title: EBV and human microRNAs co-target oncogenic and apoptotic viral and human
-    genes during latency
+  title: "EBV and human microRNAs co\u2010target oncogenic and apoptotic viral and\
+    \ human genes during latency"
   authors:
   - Kasandra J Riley
   - Gabrielle S Rabinowitz
