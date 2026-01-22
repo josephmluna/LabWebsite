@@ -21,10 +21,12 @@ We are always looking out for exceptional and creative graduate students from a 
 
 ### Undergraduates
 
+**Please note: We are not currently accepting new undergraduate researchers. We anticipate reopening undergraduate positions in Spring 2027.**
+
 We welcome enthusiastic undergraduates interested in gaining hands-on research experience. A commitment of at least two years (including a summer) is recommended to allow students to develop valuable laboratory skills and contribute meaningfully to ongoing research projects. Undergraduate researchers can earn course credit for their work, and while academic year positions are on a volunteer basis, there are excellent opportunities for summer funding. I encourage students to explore these resources:
 
 - [SOURCE Summer Undergraduate Research Programs](https://case.edu/studentlife/ugresearch/find-programs-and-funding/undergraduate-research-office-funded-programs#Summer)
 - [Dept. of Biochemsitry Hanson Fellowship](https://case.edu/medicine/biochemistry/degrees/BA-BS/Hanson-Scholar-Program)
 - [Provost Summer Undergraduate Research Grant (PSURG)](https://case.edu/studentlife/ugresearch/find-programs-and-funding/undergraduate-research-office-funded-programs/provost-summer)
 
-If you're a CWRU undergraduate who interested in joining us, [please fill out this form](https://forms.gle/qhtcVN5NnZXUFvBm8)
+If you're a CWRU undergraduate interested in joining us, please check back in early 2027 when the a google form are available to apply.
