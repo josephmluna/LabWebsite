@@ -1,13 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.02.05.703873
+  title: "Hog1/p38 and ZAK\u03B1 drive Shwachman-Diamond syndrome and provide targets\
+    \ to improve cell growth"
+  authors:
+  - Nozomu Kawashima
+  - Neha Prasad
+  - Frank Tedeschi
+  - Hrishikesh M. Mehta
+  - Noah Saito
+  - Cameron Jones
+  - Xin Chen
+  - Anca Manuela Hristodor
+  - Gao Zhou
+  - Joseph Luna
+  - Marco Cipolli
+  - Valentino Bezzerri
+  - Seth J. Corey
+  publisher: openRxiv
+  date: '2026-02-08'
+  link: https://doi.org/hchk3z
+  orcid: 0000-0003-2415-9203
+  joe-luna: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.03.28.646018
-  title: Inherent Specificity and Mutational Sensitivity as Quantitative Metrics for
+  title: Inherent Specificity and Variation Sensitivity as Quantitative Metrics for
     RBP Binding
   authors:
   - Soon Yi
   - Shashi S. Singh
   - Xuan Ye
   - Rohan Krishna
+  - Vidusha Kothwela
   - Eckhard Jankowsky
   - Joseph M. Luna
   publisher: openRxiv
@@ -512,8 +537,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15252/embj.201695933
-  title: "Present and not reporting for duty: ds\n                    <scp>RNA</scp>\n\
-    \                    i in mammalian cells"
+  title: 'Present and not reporting for duty: dsRNAi in mammalian cells'
   authors:
   - Joseph M Luna
   - Xianfang Wu
