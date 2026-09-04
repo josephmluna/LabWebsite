@@ -1,8 +1,10 @@
 ---
 ---
 
-# Unraveling viral secrets through RNA biology
-The Luna Lab is a team of molecular biologists and virologists dedicated to understanding how RNA-binding proteins orchestrate cellular responses during viral infections. We use RNA viruses as tools to uncover fundamental principles of RNA biology and develop potential therapeutic strategies viral diseases, RNA-related disorders, and more. We use a wide array of tools including reverse genetics, functional genomics, advanced RNA profiling techniques, and innovative subcellular imaging methods. Current work focuses on mapping the dynamic spatial interactions between viral genomes and host factors, decoding the regulatory logic of RNA-protein networks, and developing novel tools to study RNA biology at unprecedented spatial and temporal resolution.
+# Where RNA Biology Meets Virology
+Our lab is interested in understanding how RNA binding proteins find their targets inside a cell, and how that process is shaped by location, timing, and changes in cell state. One of the clearest ways to study this is through RNA viruses, which depend on host RNA binding proteins to replicate, often hijacking them away from their normal role, and giving us a natural and powerful way to uncover new biology. We develop new tools — combining sequencing, proteomic tagging, and imaging — to observe these interactions  in specific places inside the cell, during infection and cellular stress. We also apply what we learn toward therapeutic goals, such as designing RNA molecules that can silence or correct genes that cause disease, or building systems that continuously report on cellular transcriptomes, and more.
+
+Our lab draws on multiple disciplines, including virology, RNA biology, computational biology, synthetic biology, and molecular and cell biology, among others. If you're interested in joining us, get in touch!
 
 {%
   include figure.html
