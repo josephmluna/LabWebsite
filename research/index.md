@@ -7,18 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Overview
 
-The Luna Lab investigates how RNA-binding proteins (RBPs) influence viral infections and cellular stress responses at the subcellular level. Using positive-sense RNA viruses as models, we explore how RBPs orchestrate viral replication and and modulate innate immune responses. Through innovative techniques in reverse genetics, CRISPR screening, and subcellular RNA profiling, we map the dynamic spatial interactions between viral genomes and host RBPs throughout the infection cycle. Our goal is to uncover the regulatory logic governing these interactions within distinct cellular compartments, providing insights into fundamental RNA biology and potential therapeutic targets for viral infections and RBP-related disorders.
+The Luna Lab investigates how RNA-binding proteins (RBPs) find and act on their RNA targets inside the cell, and how this process is shaped by subcellular location and changes in cell state. We use positive-sense RNA viruses as model systems, since these viruses depend on hijacking host RBPs to replicate and evade immune detection, giving us a natural window into how these interactions work. Using subcellular RNA profiling and proximity labeling, we map where in the cell RBP:RNA interactions occur and how that location shapes their function. Our goal is to uncover the regulatory logic governing these interactions, providing insight into fundamental RNA biology as well as potential therapeutic targets for viral infection and RBP-related disorders.
 
-In addition, we are committed to training and mentoring the next generation of scientists in biomedical research, particularly from under-represented groups. We further prioritize scientific outreach efforts at all levels to educate, inform and inspire.
+In addition, we are committed to training and mentoring the next generation of scientists in biomedical research. We further prioritize scientific outreach efforts at all levels to educate, inform and inspire.
 
 {% include section.html %}
 
 ## What we're working on
 
 {% capture text %}
-**Mapping Subcellular RBP:RNA Interactions:**
-We're developing innovative tools to capture and analyze RBP:RNA interactions with unprecedented subcellular resolution. By biochemically preserving spatial information in living cells, we aim to uncover how the localization of these interactions influences cellular functions and viral infections. This project will provide crucial insights into how RBPs operate in distinct cellular compartments and how their spatial distribution affects their roles in RNA metabolism.
-
+**Location and Specificity in RBP:RNA Interactions**
+RNA-binding proteins don't act the same way everywhere in the cell. We've developed new tools that combine sequencing with proximity labeling to capture RBP:RNA interactions with subcellular resolution, revealing how a protein's targets and behavior can shift depending on where it's located. This work has also exposed a more basic gap in the field, since unlike binding affinity, RNA-binding specificity has no standard way to be measured. We're building new quantitative metrics and computational tools to define and compare specificity across RBPs, to ask how specificity itself changes with subcellular location and cellular state.
 
 {:.center}
 {% endcapture %}
@@ -31,9 +30,8 @@ We're developing innovative tools to capture and analyze RBP:RNA interactions wi
 %}
 
 {% capture text %}
-**Decoding RBP Dynamics in Viral Infections:**
-Using positive-sense RNA viruses as model systems, we're investigating how RBPs how cellular RBPs orchestrate the balance between viral genome replication, translation, and virion assembly. We use viral reverse genetics, CRISPR screening, and advanced RNA profiling to map the dynamic interactions between viral genomes and host RBPs throughout the infection cycle. Our goal is to unravel the regulatory logic of RBPs during infection with an eye toward novel antivirals and therapeutics.
-<br>
+**Noncanonical RBPs during Viral Infection:**
+Many proteins bind RNA only under specific conditions, and infection is one of the strongest triggers we know of. Using RNA viruses such as Zika virus and hepatitis C virus as model systems, we're systematically identifying proteins that gain RNA-binding activity specifically during infection, including many with no previously known role in RNA biology. Our goal is to understand what these noncanonical RNA-binding proteins are doing, why infection recruits them, and what this reveals about how cells reorganize their RNA regulation under stress.
 
 {:.center}
 {% endcapture %}
@@ -42,19 +40,5 @@ Using positive-sense RNA viruses as model systems, we're investigating how RBPs 
   include feature.html
   image="images/research/Lifecycle.png"
   headline="Decoding RBP dynamics during infection"
-  text=text
-%}
-
-{% capture text %}
-**Modeling RBP Networks during Innate Immunity**
-Host recognition of viral RNA by RBPs is among the foundational steps of innate immune sensing, yet how this process is coordinated among RBPs with different downstream outcomes is unknown. We use our experimental data with state-of-the-art bioinformatics tool to build models of RBP activities and interaction networks during changing cell states. By analyzing how RBP:RNA interactions change in response to infection, we aim to predict key regulatory nodes and potential vulnerabilities in the host-pathogen interface, guiding future experimental validations and therapeutic strategies. This work bridges our experimental work with a systems-level understanding of RNA regulation.
-
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/research/Sensing.png"
-  headline="Sensing RBP networks"
   text=text
 %}
